@@ -1,8 +1,17 @@
 ## About me
 
-You can use the [editor on GitHub](https://github.com/awgutierrez/awgutierrez.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Postdoctoral Researcher, Aalto University 2019 - 2020 
+- Doctor of Science (Technology), Aalto University 2019
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My doctoral dissertation entitled "[Metric compactification of Banach spaces](https://aaltodoc.aalto.fi/handle/123456789/41224)" 
+was supervised by [Anders Karlsson](http://www.unige.ch/math/folks/karlsson/) at University of Geneva, 
+and [Kalle Kytölä](https://math.aalto.fi/~kkytola/) and [Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna) 
+at Aalto University.
+
+My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
+
+email: armando.w.gutierrez AT protonmail.ch
+
 
 ## Publications and preprints
 
