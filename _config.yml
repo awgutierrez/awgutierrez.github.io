@@ -1,5 +1,6 @@
 theme: jekyll-theme-leap-day
-show_downloads: true 
+show_downloads: false
+show_view: false
 title: Armando W. Gutiérrez
 author :
   name : Armando W. Gutiérrez
