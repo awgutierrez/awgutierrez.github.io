@@ -9,7 +9,8 @@ and [Kalle Kytölä](https://math.aalto.fi/~kkytola/) and [Olavi Nevanlinna](htt
 at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
-<img src="./e-mail.png" width="100" height="100"> armando.w.gutierrez AT protonmail.ch
+
+<img src="./e-mail.png" align="left" width="50" height="50"> armando.w.gutierrez AT protonmail.ch
 
 ## Publications and preprints
 
