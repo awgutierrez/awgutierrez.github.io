@@ -2,4 +2,5 @@ theme: jekyll-theme-modernist
 title: Armando W. Gutiérrez
 show_downloads: false
 github:
-  is_project_page: false
+  repository_url: https://github.com/awgutierrez/awgutierrez.github.io
+  another_url: https://sites.google.com/view/armando-w-gutierrez/research
