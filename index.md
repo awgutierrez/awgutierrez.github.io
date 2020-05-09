@@ -15,7 +15,6 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 ## Publications and preprints
 
-```markdown
 - **Characterizing the metric compactification of Lp spaces by random measures.** 
 Annals of Functional Analysis (2020)
 
@@ -26,13 +25,9 @@ Canadian Mathematical Bulletin 62 (2019), no. 3, 491--507.
 Colloquium Mathematicum 155 (2019), no. 1, 51--65.
 
 - **Metric compactification of Banach spaces** (doctoral dissertation 2019) 
-```
 
-Syntax highlighted code block
+## Activities
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
