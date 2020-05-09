@@ -10,15 +10,18 @@ at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
-<img src="./e-mail.png" align="left" width="50" height="50"> armando.w.gutierrez AT protonmail.ch
+<img src="./e-mail.png" align="left" width="30" height="30"> armando.w.gutierrez AT protonmail.ch
+
 
 ## Publications and preprints
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
+- Characterizing the metric compactification of Lp spaces by random measures. Annals of Functional Analysis (2020)
+- On the metric compactification of infinite-dimensional lp spaces. Canadian Mathematical Bulletin 62 (2019), no. 3, 491--507.
+- The horofunction boundary of finite-dimensional lp spaces. Colloquium Mathematicum 155 (2019), no. 1, 51--65.
+- Metric compactification of Banach spaces (doctoral dissertation 2019) 
+```
+
 Syntax highlighted code block
 
 # Header 1
