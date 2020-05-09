@@ -1,8 +1,5 @@
 theme: jekyll-theme-leap-day
-show_downloads: false
-show_view: false
 title: Armando W. Gutiérrez
-author :
-  name : Armando W. Gutiérrez
-  email : armando@gmail.com
-  twitter : kwbroman
+show_downloads: false
+github:
+  is_project_page: false
