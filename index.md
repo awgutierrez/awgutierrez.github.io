@@ -10,7 +10,7 @@ at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
-<img src="./e-mail.png" align="left" width="30" height="30"> armando.w.gutierrez AT protonmail.ch
+<img src="./e-mail.png" align="left" width="30" height="30">  armando.w.gutierrez AT protonmail.ch
 
 
 ## Publications and preprints
