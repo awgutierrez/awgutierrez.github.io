@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About me
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
@@ -12,29 +16,10 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 <img src="./e-mail.png" align="left" width="30" height="30">  armando.w.gutierrez AT protonmail.ch
 
+* * *
 
 ## Publications and preprints
 
-<style>
-table {
- <! border-collapse: collapse;>
-  width: 100%;
-}
-
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even){background-color: #f2f2f2}
-
-th {
-  background-color: #738752;
-  color: white;
-}
-</style>
-
-<body>
 <table>
   <tr>
     <th>Title</th>
@@ -45,38 +30,39 @@ th {
     <td>Characterizing the metric compactification of Lp spaces by random measures</td>
     <td>Annals of Functional Analysis, 11, 227–243 (2020)</td>
     <td> <a href="https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="25" height="25" /></a>
+      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" /></a>
       <a href="./Lpmetricfunctionals.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="25" height="25" /></a>
+      <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
     </td>
   </tr>
   <tr>
     <td>On the metric compactification of infinite-dimensional lp spaces</td>
     <td>Canadian Mathematical Bulletin, 62(3), 491-507 (2019) </td>
     <td> <a href="https://doi.org/10.4153/S0008439518000681" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="25" height="25" /></a>
+      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" /></a>
       <a href="./lpcompactification_onlinefirst.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="25" height="25" /></a>
+      <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
     </td>
   </tr>
   <tr>
     <td>The horofunction boundary of finite-dimensional lp spaces</td>
     <td>Colloquium Mathematicum 155(1), 51-65 (2019)</td>
     <td> <a href="https://doi.org/10.4064/cm7320-3-2018" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="25" height="25" /></a>
+      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" /></a>
       <a href="./lphoroboundary_onlinefirst.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="25" height="25" /></a>
+      <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
     </td>
   </tr>
   <tr>
     <td>Metric compactification of Banach spaces</td>
     <td>Aaltodoc (2019)</td>
     <td> <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="25" height="25" /></a>
+      <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
     </td>
 </tr>
 </table>
-</body>
+
+* * *
 
 ## Teaching
 - _Brownian motion and stochastic analysis_: 4/2020 - 5/2020
@@ -92,6 +78,8 @@ th {
 - _Introduction to stochastic processes_: 9/2014 - 12/2014
 - _Matrix computations_: 1/2014 - 2/2014
 - _Numerical analysis for dynamical systems_: 9/2013 - 12/2013
+
+* * *
 
 ## Activities
 
