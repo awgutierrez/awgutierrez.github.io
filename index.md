@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ## About me
 
@@ -20,7 +17,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 ## Publications and preprints
 
-<table>
+<table style="width:100%">
   <tr>
     <th>Title</th>
     <th>Journal</th>
