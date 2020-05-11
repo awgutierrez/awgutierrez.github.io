@@ -1,7 +1,6 @@
-
 <html>
 <head>
-  <title> Homepage </homepage>
+  <title> Homepage </title>
   <meta name="google-site-verification" content="eTmnmZo4cCCFa6nF8nTz7nwCmpJ5QKq-gS-rHnf1w8s" />
 </head>
 <body>
