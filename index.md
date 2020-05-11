@@ -29,7 +29,7 @@ th, td {
 tr:nth-child(even){background-color: #f2f2f2}
 
 th {
-  background-color: #c6f57a;
+  background-color: #738752;
   color: white;
 }
 </style>
@@ -72,7 +72,7 @@ th {
     <td>Metric compactification of Banach spaces</td>
     <td>Aaltodoc (2019)</td>
     <td> <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="25" height="25" />
+      <img src="./PDF_file_icon.svg.png" width="25" height="25" /></a>
     </td>
 </tr>
 </table>
