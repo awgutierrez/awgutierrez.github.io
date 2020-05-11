@@ -13,13 +13,66 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 <img src="./e-mail.png" align="left" width="30" height="30">  armando.w.gutierrez AT protonmail.ch
 
 
-## [Publications and preprints](publications.md)
+## Publications and preprints
+
+<style>
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<body>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Journal</th>
+    <th>Link/File</th>
+  </tr>
+  <tr>
+    <td>Characterizing the metric compactification of Lp spaces by random measures</td>
+    <td>Annals of Functional Analysis, 11, 227–243 (2020)</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>On the metric compactification of infinite-dimensional lp spaces</td>
+    <td>Canadian Mathematical Bulletin, 62(3), 491-507 (2019) </td>
+    <td>$150</td>
+  </tr>
+  <tr>
+    <td>The horofunction boundary of finite-dimensional lp spaces</td>
+    <td>Colloquium Mathematicum 155(1), 51-65 (2019)</td>
+    <td> <a href="https://doi.org/10.4064/cm7320-3-2018">
+      <img src="./DOI_logo.svg.png" align="left" width="25" height="25" /></a>
+      <a href="./lphoroboundary_onlinefirst.pdf">
+      <img src="./PDF_file_icon.svg.png" width="25" height="25" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Cleveland</td>
+    <td>Brown</td>
+    <td>$250</td>
+</tr>
+</table>
+</body>
 
 - **Characterizing the metric compactification of Lp spaces by random measures.** 
 Annals of Functional Analysis (2020)
 
 - **On the metric compactification of infinite-dimensional lp spaces.** 
-Canadian Mathematical Bulletin 62 (2019), no. 3, 491--507.
+Canadian Mathematical Bulletin, 62(3), 491-507
 
 - **The horofunction boundary of finite-dimensional lp spaces.** 
 Colloquium Mathematicum 155 (2019), no. 1, 51--65.
