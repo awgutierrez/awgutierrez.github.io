@@ -1,7 +1,10 @@
-<head>
-<meta name="google-site-verification" content="eTmnmZo4cCCFa6nF8nTz7nwCmpJ5QKq-gS-rHnf1w8s" />
-</head>
 
+<html>
+<head>
+  <title> Homepage </homepage>
+  <meta name="google-site-verification" content="eTmnmZo4cCCFa6nF8nTz7nwCmpJ5QKq-gS-rHnf1w8s" />
+</head>
+<body>
 ## About me
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
@@ -125,3 +128,5 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 - [Geometry and Dynamics](https://hasselblatttroubetzkoy.weebly.com/other-event.html), CIRM Luminy, FR, 3/2014
 - N5TeAM Summer School in Applied and Engineering Mathematics, FI, 8/2013
 
+</body>
+</html>
