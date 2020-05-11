@@ -11,7 +11,7 @@ at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
-<img src="./e-mail.png" align="left" width="30" height="30">  armando.w.gutierrez AT protonmail.ch
+<img src="./e-mail.png" align="left" width="30" height="30" padding:2> armando.w.gutierrez AT protonmail.ch
 
 * * *
 
@@ -26,7 +26,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
   <tr>
     <td vertical-align: top> Characterizing the metric compactification of Lp spaces by random measures </td>
     <td vertical-align: top> Annals of Functional Analysis, 11, 227–243 (2020) </td>
-    <td style="white-space:nowrap"> 
+    <td vertical-align: top style="white-space:nowrap"> 
       <a href="https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf" target="_blank">
       <img src="./DOI_logo.svg.png" align="left" width="20" height="20" />
       </a>
@@ -36,28 +36,36 @@ My research work focuses on the interplay between Metric Geometry, Functional An
     </td>
   </tr>
   <tr>
-    <td>On the metric compactification of infinite-dimensional lp spaces</td>
-    <td>Canadian Mathematical Bulletin, 62(3), 491-507 (2019) </td>
-    <td> <a href="https://doi.org/10.4153/S0008439518000681" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" /></a>
+    <td vertical-align: top> On the metric compactification of infinite-dimensional lp spaces </td>
+    <td vertical-align: top> Canadian Mathematical Bulletin, 62(3), 491-507 (2019) </td>
+    <td vertical-align: top style="white-space:nowrap"> 
+      <a href="https://doi.org/10.4153/S0008439518000681" target="_blank">
+      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" />
+      </a>
       <a href="./lpcompactification_onlinefirst.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
+      <img src="./PDF_file_icon.svg.png" width="20" height="20" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td>The horofunction boundary of finite-dimensional lp spaces</td>
-    <td>Colloquium Mathematicum 155(1), 51-65 (2019)</td>
-    <td> <a href="https://doi.org/10.4064/cm7320-3-2018" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" /></a>
+    <td vertical-align: top> The horofunction boundary of finite-dimensional lp spaces </td>
+    <td vertical-align: top> Colloquium Mathematicum 155(1), 51-65 (2019) </td>
+    <td vertical-align: top style="white-space:nowrap"> 
+      <a href="https://doi.org/10.4064/cm7320-3-2018" target="_blank">
+      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" />
+      </a>
       <a href="./lphoroboundary_onlinefirst.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
+      <img src="./PDF_file_icon.svg.png" width="20" height="20" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td>Metric compactification of Banach spaces</td>
-    <td>Aaltodoc (2019)</td>
-    <td> <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
+    <td vertical-align: top> Metric compactification of Banach spaces </td>
+    <td vertical-align: top> Aaltodoc (2019) </td>
+    <td vertical-align: top style="white-space:nowrap"> 
+      <a href="https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf" target="_blank">
+      <img src="./PDF_file_icon.svg.png" width="20" height="20" />
+      </a>
     </td>
 </tr>
 </table>
