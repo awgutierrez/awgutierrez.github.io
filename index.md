@@ -26,7 +26,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
   <tr  style="text-align:left">
     <td>Characterizing the metric compactification of Lp spaces by random measures</td>
     <td>Annals of Functional Analysis, 11, 227–243 (2020)</td>
-    <td> <a href="https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf" target="_blank">
+    <td style="white-space:nowrap"> <a href="https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf" target="_blank">
       <img src="./DOI_logo.svg.png" align="left" width="20" height="20" /></a>
       <a href="./Lpmetricfunctionals.pdf" target="_blank">
       <img src="./PDF_file_icon.svg.png" width="20" height="20" /></a>
