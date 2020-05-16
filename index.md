@@ -18,13 +18,13 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 | title | with | journal | pdf | doi |
 | --- | --- | --- | --- | --- |
-| **Characterizing the metric compactification of Lp spaces by random measures** | - | Annals of Functional Analysis, 11, 227–243 (2020) | [![PDF]](p3pdf) | [![DOI]](pd3doi) |
-| **On the metric compactification of infinite-dimensional lp spaces** | - | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![PDF]](p2pdf) | [![DOI]](p2doi) |
-| **The horofunction boundary of finite-dimensional lp spaces** | - | Colloquium Mathematicum 155(1), 51-65 (2019) | [![PDF]](paper1) | [![DOI]](p1doi) | 
+| Characterizing the metric compactification of Lp spaces by random measures | - | _Annals of Functional Analysis, 11, 227–243 (2020)_ | [![PDF]][p3pdf] | [![DOI]][p3doi] |
+| On the metric compactification of infinite-dimensional \\(\ell_p\\) spaces | - | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_     | [![PDF]][p2pdf] | [![DOI]][p2doi] |
+| The horofunction boundary of finite-dimensional lp spaces | - | _Colloquium Mathematicum 155(1), 51-65 (2019)_ | [![PDF]][p1pdf] | [![DOI]][p1doi] | 
 | **Metric compactification of Banach spaces** | - | Aaltodoc (2019) | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
 
 [DOI]: ./DOI_logo.svg.png 
-[PDF]: ./PDF_file_icon.svg.png 
+[PDF]: ./PDF_file_icon.svg.png
 
 [p1pdf]: ./lphoroboundary_onlinefirst.pdf
 [p1doi]: https://doi.org/10.4064/cm7320-3-2018
