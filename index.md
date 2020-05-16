@@ -16,6 +16,12 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 # Publications and preprints
 
+| Title | Journal | Link/File ||
+| :--- | :--- | :--- |---|
+| ***Characterizing the metric compactification of Lp spaces by random measures*** | Annals of Functional Analysis, 11, 227–243 (2020) | [![AFA](./DOI_logo.svg.png){:height="50%" width="50%"}](https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf) | [![PDF](./PDF_file_icon.svg.png)](./Lpmetricfunctionals.pdf) |
+| ***On the metric compactification of infinite-dimensional lp spaces*** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![CMB](./DOI_logo.svg.png)](https://doi.org/10.4153/S0008439518000681) | [![PDF](./PDF_file_icon.svg.png)](./lpcompactification_onlinefirst.pdf) |
+| ***The horofunction boundary of finite-dimensional lp spaces*** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![CM](./DOI_logo.svg.png)](https://doi.org/10.4064/cm7320-3-2018) | [![PDF](./PDF_file_icon.svg.png)](./lphoroboundary_onlinefirst.pdf) |
+
 <table style="width:100%">
   <tr>
     <th>Title</th>
