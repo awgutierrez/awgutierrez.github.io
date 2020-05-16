@@ -22,7 +22,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
     <th>Journal</th>
     <th>Link/File</th>
   </tr>
-  <tr>
+  <tr vertical-align: top>
     <td vertical-align: top> Characterizing the metric compactification of Lp spaces by random measures </td>
     <td vertical-align: top> Annals of Functional Analysis, 11, 227–243 (2020) </td>
     <td vertical-align: top style="white-space:nowrap"> 
