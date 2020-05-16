@@ -1,3 +1,4 @@
+<script src="./tex.js"></script>
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
 - Doctor of Science (Technology), Aalto University 2019
