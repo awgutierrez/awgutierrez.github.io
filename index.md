@@ -1,4 +1,3 @@
-
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
 - Doctor of Science (Technology), Aalto University 2019
 
@@ -13,18 +12,19 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 * * *
 
-# Publications and preprints
+# Publications and preprints 
 
-| title | journal | pdf | doi | arxiv |
+[arXiv](https://arxiv.org/a/0000-0001-5010-7103) 
+
+| title | with | journal | pdf | doi |
 | --- | --- | --- | --- | --- |
-| **Characterizing the metric compactification of Lp spaces by random measures** | Annals of Functional Analysis, 11, 227–243 (2020) | [![PDF]](./Lpmetricfunctionals.pdf) | [![DOI]](https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf) | ![ARXIV] |
-| **On the metric compactification of infinite-dimensional lp spaces** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![PDF]](./lpcompactification_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4153/S0008439518000681) | ![ARXIV] |
-| **The horofunction boundary of finite-dimensional lp spaces** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![PDF]](./lphoroboundary_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4064/cm7320-3-2018) | ![ARXIV] |
+| **Characterizing the metric compactification of Lp spaces by random measures** |  | Annals of Functional Analysis, 11, 227–243 (2020) | [![PDF]](./Lpmetricfunctionals.pdf) | [![DOI]](https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf) |
+| **On the metric compactification of infinite-dimensional lp spaces** | | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![PDF]](./lpcompactification_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4153/S0008439518000681) |
+| **The horofunction boundary of finite-dimensional lp spaces** | | Colloquium Mathematicum 155(1), 51-65 (2019) | [![PDF]](./lphoroboundary_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4064/cm7320-3-2018) | 
 | **Metric compactification of Banach spaces** | Aaltodoc (2019) | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
 
 [DOI]: ./DOI_logo.svg.png 
 [PDF]: ./PDF_file_icon.svg.png 
-[ARXIV]: ./arxiv.png
 
 * * *
 
