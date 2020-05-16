@@ -1,4 +1,3 @@
-# About
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
 - Doctor of Science (Technology), Aalto University 2019
@@ -12,24 +11,22 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 <img src="./e-mail.png" align="left" width="30" height="30" padding:2> _armando.w.gutierrez AT protonmail.ch_
 
-- - -
-- - -
+* * *
 
 # Publications and preprints
 
 | title | journal | pdf | doi | arxiv |
 | --- | --- | --- | --- | --- |
-| ***Characterizing the metric compactification of Lp spaces by random measures*** | Annals of Functional Analysis, 11, 227–243 (2020) | [![PDF]](./Lpmetricfunctionals.pdf) | [![DOI]](https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf) | ![ARXIV] |
-| ***On the metric compactification of infinite-dimensional lp spaces*** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![PDF]](./lpcompactification_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4153/S0008439518000681) | ![ARXIV] |
-| ***The horofunction boundary of finite-dimensional lp spaces*** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![PDF]](./lphoroboundary_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4064/cm7320-3-2018) | ![ARXIV] |
-| ***Metric compactification of Banach spaces*** | Aaltodoc (2019) | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
+| **Characterizing the metric compactification of Lp spaces by random measures** | Annals of Functional Analysis, 11, 227–243 (2020) | [![PDF]](./Lpmetricfunctionals.pdf) | [![DOI]](https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf) | ![ARXIV] |
+| **On the metric compactification of infinite-dimensional lp spaces** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![PDF]](./lpcompactification_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4153/S0008439518000681) | ![ARXIV] |
+| **The horofunction boundary of finite-dimensional lp spaces** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![PDF]](./lphoroboundary_onlinefirst.pdf) | [![DOI]](https://doi.org/10.4064/cm7320-3-2018) | ![ARXIV] |
+| **Metric compactification of Banach spaces** | Aaltodoc (2019) | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
 
 [DOI]: ./DOI_logo.svg.png 
 [PDF]: ./PDF_file_icon.svg.png 
 [ARXIV]: ./arxiv.png
 
-- - -
-- - -
+* * *
 
 # Teaching
 
@@ -47,8 +44,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 - _Matrix computations_: 1/2014 - 2/2014
 - _Numerical analysis for dynamical systems_: 9/2013 - 12/2013
 
-- - -
-- - -
+* * *
 
 # Activities
 
