@@ -1,4 +1,6 @@
-<script src="./tex.js"></script>
+<script src="https://github.com/awgutierrez/awgutierrez.github.io/tex.js"></script>
+
+# About
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
 - Doctor of Science (Technology), Aalto University 2019
