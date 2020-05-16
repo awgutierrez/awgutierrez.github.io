@@ -1,6 +1,3 @@
----
-layout: post
----
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
 - Doctor of Science (Technology), Aalto University 2019
@@ -21,7 +18,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 | title | with | journal | pdf | doi |
 | --- | --- | --- | --- | --- |
 | Characterizing the metric compactification of Lp spaces by random measures | - | _Annals of Functional Analysis, 11, 227–243 (2020)_ | [![PDF]][p3pdf] | [![DOI]][p3doi] |
-| On the metric compactification of infinite-dimensional \\(\ell_p\\) spaces | - | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_ | [![PDF]][p2pdf] | [![DOI]][p2doi] |
+| On the metric compactification of infinite-dimensional lp spaces | - | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_ | [![PDF]][p2pdf] | [![DOI]][p2doi] |
 | The horofunction boundary of finite-dimensional lp spaces | - | _Colloquium Mathematicum 155(1), 51-65 (2019)_ | [![PDF]][p1pdf] | [![DOI]][p1doi] | 
 | Metric compactification of Banach spaces | - | _Aaltodoc (2019)_ | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
 
