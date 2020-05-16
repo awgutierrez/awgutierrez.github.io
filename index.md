@@ -1,4 +1,3 @@
-# About 
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
 - Doctor of Science (Technology), Aalto University 2019
@@ -16,12 +15,15 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 # Publications and preprints
 
-| Title | Journal | Link/File ||
-| --- | --- | --- |---|
-| ***Characterizing the metric compactification of Lp spaces by random measures*** | Annals of Functional Analysis, 11, 227–243 (2020) | [![AFA](./DOI_logo.svg.png){:height="40%" width="40%"}](https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf) | [![PDF](./PDF_file_icon.svg.png){:height="40%" width="40%"}](./Lpmetricfunctionals.pdf) |
-| ***On the metric compactification of infinite-dimensional lp spaces*** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![CMB](./DOI_logo.svg.png){:height="40%" width="40%"}](https://doi.org/10.4153/S0008439518000681) | [![PDF](./PDF_file_icon.svg.png){:height="40%" width="40%"}](./lpcompactification_onlinefirst.pdf) |
-| ***The horofunction boundary of finite-dimensional lp spaces*** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![CM](./DOI_logo.svg.png){:height="40%" width="30%"}](https://doi.org/10.4064/cm7320-3-2018) | [![PDF](./PDF_file_icon.svg.png){:height="30%" width="30%"}](./lphoroboundary_onlinefirst.pdf) |
-| ***Metric compactification of Banach spaces*** | Aaltodoc (2019) | [![Aalto](./PDF_file_icon.svg.png){:height="30%" width="30%"}](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
+| Title | Journal | Link/File | |
+| --- | --- | --- | --- |
+| ***Characterizing the metric compactification of Lp spaces by random measures*** | Annals of Functional Analysis, 11, 227–243 (2020) | [![DOI]](https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf) | [![PDF]](./Lpmetricfunctionals.pdf) |
+| ***On the metric compactification of infinite-dimensional lp spaces*** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019)     | [![DOI]](https://doi.org/10.4153/S0008439518000681) | [![PDF]](./lpcompactification_onlinefirst.pdf) |
+| ***The horofunction boundary of finite-dimensional lp spaces*** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![DOI]](https://doi.org/10.4064/cm7320-3-2018) | [![PDF]](./lphoroboundary_onlinefirst.pdf) |
+| ***Metric compactification of Banach spaces*** | Aaltodoc (2019) | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
+
+[DOI]: ./DOI_logo.svg.png {:height="50%" width="50%"}
+[PDF]: ./PDF_file_icon.svg.png {:height="50%" width="50%"}
 
 * * *
 
