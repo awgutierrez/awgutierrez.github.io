@@ -1,4 +1,5 @@
-<script src="https://github.com/awgutierrez/awgutierrez.github.io/tex.js"></script>
+<script src="https://github.com/awgutierrez/awgutierrez.github.io/tex.js">
+</script>
 
 # About
 
