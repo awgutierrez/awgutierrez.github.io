@@ -1,4 +1,4 @@
-## About me
+# About 
 
 - Postdoctoral Researcher, Aalto University 2019 - 2020 
 - Doctor of Science (Technology), Aalto University 2019
@@ -10,11 +10,11 @@ at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
-<img src="./e-mail.png" align="left" width="30" height="30" padding:2> armando.w.gutierrez AT protonmail.ch
+<img src="./e-mail.png" align="left" width="30" height="30" padding:2> _armando.w.gutierrez AT protonmail.ch_
 
 * * *
 
-## Publications and preprints
+# Publications and preprints
 
 <table style="width:100%">
   <tr>
@@ -27,10 +27,10 @@ My research work focuses on the interplay between Metric Geometry, Functional An
     <td vertical-align: top> Annals of Functional Analysis, 11, 227–243 (2020) </td>
     <td vertical-align: top style="white-space:nowrap"> 
       <a href="https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" />
+      <img src="./DOI_logo.svg.png" align="left" width="25" height="25" />
       </a>
       <a href="./Lpmetricfunctionals.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="20" height="20" />
+      <img src="./PDF_file_icon.svg.png" width="25" height="25" />
       </a>
     </td>
   </tr>
@@ -39,10 +39,10 @@ My research work focuses on the interplay between Metric Geometry, Functional An
     <td vertical-align: top> Canadian Mathematical Bulletin, 62(3), 491-507 (2019) </td>
     <td vertical-align: top style="white-space:nowrap"> 
       <a href="https://doi.org/10.4153/S0008439518000681" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" />
+      <img src="./DOI_logo.svg.png" align="left" width="25" height="25" />
       </a>
       <a href="./lpcompactification_onlinefirst.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="20" height="20" />
+      <img src="./PDF_file_icon.svg.png" width="25" height="25" />
       </a>
     </td>
   </tr>
@@ -51,10 +51,10 @@ My research work focuses on the interplay between Metric Geometry, Functional An
     <td vertical-align: top> Colloquium Mathematicum 155(1), 51-65 (2019) </td>
     <td vertical-align: top style="white-space:nowrap"> 
       <a href="https://doi.org/10.4064/cm7320-3-2018" target="_blank">
-      <img src="./DOI_logo.svg.png" align="left" width="20" height="20" />
+      <img src="./DOI_logo.svg.png" align="left" width="25" height="25" />
       </a>
       <a href="./lphoroboundary_onlinefirst.pdf" target="_blank">
-      <img src="./PDF_file_icon.svg.png" width="20" height="20" />
+      <img src="./PDF_file_icon.svg.png" width="25" height="25" />
       </a>
     </td>
   </tr>
@@ -71,7 +71,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 * * *
 
-## Teaching
+# Teaching
 - _Brownian motion and stochastic analysis_: 4/2020 - 5/2020
 - _Probability and statistics_: 2/2020 - 4/2020
 - _Metric spaces_: 1/2020 - 2/2020, 1/2019 - 2/2019, 1/2018 - 2/2018, 1/2017 - 2/2017
@@ -88,9 +88,9 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 * * *
 
-## Activities
+# Activities
 
-### Seminar talks
+## Seminar talks
 
 - _Stochastic Analysis seminar_, University of Bonn, 11/2019
 - _Workshop on Banach spaces and Banach lattices_, ICMAT, 9/2019
@@ -104,7 +104,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 - _Stochastics and Statistics seminar_, Aalto university, 8/2018
 - _Geometry seminar_, University of Jyväskylä, 5/2018
 
-### Conferences
+## Conferences
 
 - [Dynamics, Geometry and Combinatorics](https://bernoulli.epfl.ch/events/1489), Bernoulli Center, CH, 10/2019
 - [Workshop on Banach spaces and Banach lattices](https://www.icmat.es/congresos/2019/BSBL/), ICMAT, ES, 9/2019
