@@ -1,6 +1,9 @@
-
-- Postdoctoral Researcher, Aalto University 2019 - 2020 
-- Doctor of Science (Technology), Aalto University 2019
+  
+- Postdoctoral Researcher, 
+[INRIA Saclay](http://www.inria.fr/centre/saclay) - [École polytechnique](http://www.polytechnique.edu/), 2020 - 2021
+- Postdoctoral Researcher, 
+[Aalto University](https://www.aalto.fi/en), 2019 - 2020 
+- Doctor of Science (Technology), [Aalto University](https://www.aalto.fi/en) 2019
 
 My doctoral dissertation entitled "[Metric compactification of Banach spaces](https://aaltodoc.aalto.fi/handle/123456789/41224)" 
 was supervised by [Anders Karlsson](http://www.unige.ch/math/folks/karlsson/) at University of Geneva, 
@@ -15,12 +18,12 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 # Publications and preprints 
 
-| title | with | journal | pdf | doi |
-| --- | --- | --- | --- | --- |
-| Characterizing the metric compactification of Lp spaces by random measures | - | _Annals of Functional Analysis, 11, 227–243 (2020)_ | [![PDF]][p3pdf] | [![DOI]][p3doi] |
-| On the metric compactification of infinite-dimensional lp spaces | - | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_ | [![PDF]][p2pdf] | [![DOI]][p2doi] |
-| The horofunction boundary of finite-dimensional lp spaces | - | _Colloquium Mathematicum 155(1), 51-65 (2019)_ | [![PDF]][p1pdf] | [![DOI]][p1doi] | 
-| Metric compactification of Banach spaces | - | _Aaltodoc (2019)_ | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf)
+| title | journal | doi | pdf |
+| --- | --- | --- | --- |
+| __Characterizing the metric compactification of Lp spaces by random measures__ | _Annals of Functional Analysis, 11, 227–243 (2020)_ | [![DOI]][p3doi] | [![PDF]][p3pdf] |
+| __On the metric compactification of infinite-dimensional lp spaces__ | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_ | [![DOI]][p2doi] | [![PDF]][p2pdf] |
+| __The horofunction boundary of finite-dimensional lp spaces__ | _Colloquium Mathematicum 155(1), 51-65 (2019)_ | [![DOI]][p1doi] | [![PDF]][p1pdf] | 
+| __Metric compactification of Banach spaces__ | _Aaltodoc (2019)_ |  | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf) |
 
 [DOI]: ./DOI_logo.svg.png 
 [PDF]: ./PDF_file_icon.svg.png
@@ -29,7 +32,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 [p1doi]: https://doi.org/10.4064/cm7320-3-2018
 
 [p2pdf]: ./lpcompactification_onlinefirst.pdf
-[p2doi]: https://doi.org/10.4153/S0008439518000681
+[p2doi]: https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-the-metric-compactification-of-infinitedimensional-ell-p-spaces/BA73E83FEC3E2E7BD7215211C5005EC3/share/1b752366af87d4023e9882f0bbbd700815464f37
 
 [p3pdf]: ./Lpmetricfunctionals.pdf
 [p3doi]: https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf
