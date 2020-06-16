@@ -8,14 +8,11 @@ google-site-verification: google84436875eb5f381d.html
 social:
   name: Armando W. Gutiérrez
   links:
-    - https://math.aalto.fi/en/people/armando.gutierrez
     - https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
     - https://www.researchgate.net/profile/Armando_Gutierrez5
     - https://orcid.org/0000-0001-5010-7103
-    - https://research.aalto.fi/portal/en/searchall.html?searchall=armando+gutierrez
 markdown: kramdown
 google_analytics: UA-142698973-2
 kramdown:
-  math_engine: mathjax
+  math_engine: katex
   syntax_highlighter: rouge
-  
