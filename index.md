@@ -29,10 +29,10 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 | title | journal | doi | pdf |
 | :--- | :--- | --- | --- |
-| **Characterizing the metric compactification of Lp spaces by random measures** | Annals of Functional Analysis, 11, 227–243 (2020) | [![DOI]][p3doi]{:target="_blank"} | [![PDF]][p3pdf]{:target="_blank"} |
-| **On the metric compactification of infinite-dimensional lp spaces** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019) | [![DOI]][p2doi]{:target="_blank"} | [![PDF]][p2pdf]{:target="_blank"} |
-| **The horofunction boundary of finite-dimensional lp spaces** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![DOI]][p1doi]{:target="_blank"} | [![PDF]][p1pdf]{:target="_blank"} | 
-| **Metric compactification of Banach spaces** | Aaltodoc (2019) |  | [![PDF]][thesispdf]{:target="_blank"} |
+| **Characterizing the metric compactification of Lp spaces by random measures** | _Annals of Functional Analysis_, 11, 227–243 (2020) | [![DOI]][p3doi]{:target="_blank"} | [![PDF]][p3pdf]{:target="_blank"} |
+| **On the metric compactification of infinite-dimensional lp spaces** | _Canadian Mathematical Bulletin_, 62(3), 491-507 (2019) | [![DOI]][p2doi]{:target="_blank"} | [![PDF]][p2pdf]{:target="_blank"} |
+| **The horofunction boundary of finite-dimensional lp spaces** | _Colloquium Mathematicum_, 155(1), 51-65 (2019) | [![DOI]][p1doi]{:target="_blank"} | [![PDF]][p1pdf]{:target="_blank"} | 
+| **Metric compactification of Banach spaces** | _Aaltodoc_ (2019) |  | [![PDF]][thesispdf]{:target="_blank"} |
 
 [DOI]: ./DOI_logo.svg.png 
 [PDF]: ./PDF_file_icon.svg.png
@@ -146,3 +146,7 @@ FI, 8/2013
 
 ${e}^{i\pi }+1=0$
 \\({e}^{i\pi }+1=0\\)
+
+{% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
