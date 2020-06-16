@@ -144,6 +144,15 @@ CIRM Luminy, FR, 3/2014
 - N5TeAM Summer School in Applied and Engineering Mathematics   
 FI, 8/2013
 
+function passwd(){
+  var password = prompt('Enter the password to download the file:');
+  if(password.toLowerCase() == "1234"){
+    window.open('./Lpmetricfunctionals.pdf')    
+  }else{
+    alert("incorrect password!! please try again");
+  }
+}
+
 {% raw %}
-<button onclick="window.open('./Lpmetricfunctionals.pdf')">Download</button>
+<button onclick="passwd()">Download</button>
 {% endraw %}
