@@ -144,6 +144,14 @@ CIRM Luminy, FR, 3/2014
 - N5TeAM Summer School in Applied and Engineering Mathematics   
 FI, 8/2013
 
+<p onclick="myFunction(this, 'red')">Click me to change my text color.</p>
+
+<script>
+function myFunction(elmnt,clr) {
+  elmnt.style.color = clr;
+}
+</script>
+
 {% raw %}
 function passwd(){
   var password = prompt('Enter the password to download the file:');
