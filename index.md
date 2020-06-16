@@ -1,18 +1,27 @@
-  
-- Postdoctoral Researcher, 
-[INRIA Saclay](http://www.inria.fr/centre/saclay){:target="_blank"} - [École polytechnique](http://www.polytechnique.edu/){:target="_blank"}, 2020 - 2021
-- Postdoctoral Researcher, 
-[Aalto University](https://www.aalto.fi/en){:target="_blank"}, 2019 - 2020 
-- Doctor of Science (Technology), [Aalto University](https://www.aalto.fi/en){:target="_blank"} 2019
 
-My doctoral dissertation entitled "[Metric compactification of Banach spaces](https://aaltodoc.aalto.fi/handle/123456789/41224)" 
-was supervised by [Anders Karlsson](http://www.unige.ch/math/folks/karlsson/) at University of Geneva, 
-and [Kalle Kytölä](https://math.aalto.fi/~kkytola/) and [Olavi Nevanlinna](https://math.aalto.fi/en/people/olavi.nevanlinna) 
+# About
+- Postdoctoral Researcher, 
+[INRIA Saclay](inria){:target="_blank"} - [École polytechnique](lX){:target="_blank"}, 2020 - 2021
+- Postdoctoral Researcher, 
+[Aalto University](aalto){:target="_blank"}, 2019 - 2020 
+- Doctor of Science (Technology), [Aalto University](aalto){:target="_blank"} 2019
+
+My doctoral dissertation entitled "[Metric compactification of Banach spaces](thesis){:target="_blank"}" 
+was supervised by [Anders Karlsson](karlsson){:target="_blank"} at University of Geneva, 
+and [Kalle Kytölä](kytola){:target="_blank"} and [Olavi Nevanlinna](nevanlinna){:target="_blank"} 
 at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
-<img src="./e-mail.png" align="left" width="30" height="30" padding:2> _armando.w.gutierrez AT protonmail.ch_
+<img src="./e-mail.png" align="left" width="35" height="35" padding:2> __armando.w.gutierrez (at) protonmail.ch__
+
+[inria]: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
+[lX]: https://www.polytechnique.edu/
+[aalto]: https://www.aalto.fi/en
+[thesis]: https://aaltodoc.aalto.fi/handle/123456789/41224
+[karlsson]: https://www.unige.ch/math/folks/karlsson/
+[kytola]: https://math.aalto.fi/~kkytola/
+[nevanlinna]: https://math.aalto.fi/en/people/olavi.nevanlinna
 
 * * *
 
@@ -20,7 +29,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 | title | journal | doi | pdf |
 | --- | --- | --- | --- |
-| __Characterizing the metric compactification of Lp spaces by random measures__ | _Annals of Functional Analysis, 11, 227–243 (2020)_ | [![DOI]][p3doi] | [![PDF]][p3pdf] |
+| __Characterizing the metric compactification of Lp spaces by random measures__ | _Annals of Functional Analysis, 11, 227–243 (2020)_ | [![DOI]][p3doi]{:target="_blank"} | [![PDF]][p3pdf]{:target="_blank"} |
 | __On the metric compactification of infinite-dimensional lp spaces__ | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_ | [![DOI]][p2doi] | [![PDF]][p2pdf] |
 | __The horofunction boundary of finite-dimensional lp spaces__ | _Colloquium Mathematicum 155(1), 51-65 (2019)_ | [![DOI]][p1doi] | [![PDF]][p1pdf] | 
 | __Metric compactification of Banach spaces__ | _Aaltodoc (2019)_ |  | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf) |
