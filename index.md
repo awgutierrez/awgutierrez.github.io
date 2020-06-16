@@ -149,7 +149,7 @@ FI, 8/2013
 <script>
 function passwd(){
   var password = prompt('Enter the password to download the file:');
-  if(password.toLowerCase() == "1234"){
+  if(password.toLowerCase() == "apuraha4891"){
     window.open('./OskHuttunenApuraha.pdf')    
   }else{
     alert("incorrect password!! please try again");
