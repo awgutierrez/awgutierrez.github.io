@@ -144,19 +144,15 @@ CIRM Luminy, FR, 3/2014
 - N5TeAM Summer School in Applied and Engineering Mathematics   
 FI, 8/2013
 
-<p onclick="passwd()">Download</p>
+<button onclick="passwd()">Download OskH</button>
 
 <script>
 function passwd(){
   var password = prompt('Enter the password to download the file:');
   if(password.toLowerCase() == "1234"){
-    window.open('./Lpmetricfunctionals.pdf')    
+    window.open('./OskHuttunenApuraha.pdf')    
   }else{
     alert("incorrect password!! please try again");
   }
 }
 </script>
-
-{% raw %}
-<button onclick="passwd()">Download</button>
-{% endraw %}
