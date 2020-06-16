@@ -1,7 +1,6 @@
 
-# About
 - Postdoctoral Researcher, 
-[INRIA Saclay](inria){:target="_blank"} - [École polytechnique](lX){:target="_blank"}, 2020 - 2021
+[INRIA Saclay][inria]{:target="_blank"} - [École polytechnique](lX){:target="_blank"}, 2020 - 2021
 - Postdoctoral Researcher, 
 [Aalto University](aalto){:target="_blank"}, 2019 - 2020 
 - Doctor of Science (Technology), [Aalto University](aalto){:target="_blank"} 2019
