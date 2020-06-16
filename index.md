@@ -144,9 +144,6 @@ CIRM Luminy, FR, 3/2014
 - N5TeAM Summer School in Applied and Engineering Mathematics   
 FI, 8/2013
 
-${e}^{i\pi }+1=0$
-\\({e}^{i\pi }+1=0\\)
-
 {% raw %}
-  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
- {% endraw %}
+<button onclick="window.open('./Lpmetricfunctionals.pdf')">Download</button>
+{% endraw %}
