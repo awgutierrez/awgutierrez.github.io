@@ -1,13 +1,13 @@
 
 - Postdoctoral Researcher, 
-[INRIA Saclay][inria]{:target="_blank"} - [École polytechnique](lX){:target="_blank"}, 2020 - 2021
+[INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021
 - Postdoctoral Researcher, 
-[Aalto University](aalto){:target="_blank"}, 2019 - 2020 
-- Doctor of Science (Technology), [Aalto University](aalto){:target="_blank"} 2019
+[Aalto University][aalto]{:target="_blank"}, 2019 - 2020 
+- Doctor of Science (Technology), [Aalto University][aalto]{:target="_blank"} 2019
 
-My doctoral dissertation entitled "[Metric compactification of Banach spaces](thesis){:target="_blank"}" 
-was supervised by [Anders Karlsson](karlsson){:target="_blank"} at University of Geneva, 
-and [Kalle Kytölä](kytola){:target="_blank"} and [Olavi Nevanlinna](nevanlinna){:target="_blank"} 
+My doctoral dissertation entitled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}" 
+was supervised by [Anders Karlsson][karlsson]{:target="_blank"} at University of Geneva, 
+and [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"} 
 at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
@@ -24,7 +24,7 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 * * *
 
-# Publications and preprints 
+## Publications and preprints 
 
 | title | journal | doi | pdf |
 | --- | --- | --- | --- |
@@ -32,6 +32,14 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 | __On the metric compactification of infinite-dimensional lp spaces__ | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_ | [![DOI]][p2doi] | [![PDF]][p2pdf] |
 | __The horofunction boundary of finite-dimensional lp spaces__ | _Colloquium Mathematicum 155(1), 51-65 (2019)_ | [![DOI]][p1doi] | [![PDF]][p1pdf] | 
 | __Metric compactification of Banach spaces__ | _Aaltodoc (2019)_ |  | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf) |
+
+## Databases
+
+- [arXiv][arXiv]{:target="_blank"}
+- [google scholar][gs]{:target="_blank"}
+- [orcid][orcid]{:target="_blank"}
+- [aalto][aaltodata]{:target="_blank"}
+- [researchgate][rg]{:target="_blank"}
 
 [DOI]: ./DOI_logo.svg.png 
 [PDF]: ./PDF_file_icon.svg.png
@@ -45,31 +53,37 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 [p3pdf]: ./Lpmetricfunctionals.pdf
 [p3doi]: https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf
 
-Visit also my [arXiv](https://arxiv.org/a/0000-0001-5010-7103) page.
+[arXiv]: https://arxiv.org/a/0000-0001-5010-7103
+[gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
+[orcid]: https://orcid.org/0000-0001-5010-7103
+[aaltodata]: https://research.aalto.fi/en/searchAll/index/?search=armando+gutierrez&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle
+[rg]: https://www.researchgate.net/profile/Armando_Gutierrez5
 
 * * *
 
-# Teaching
+## Teaching
 
-- _Brownian motion and stochastic analysis_: 4/2020 - 5/2020
-- _Probability and statistics_: 2/2020 - 4/2020
-- _Metric spaces_: 1/2020 - 2/2020, 1/2019 - 2/2019, 1/2018 - 2/2018, 1/2017 - 2/2017
-- _Complex analysis_: 10/2019 - 12/2019, 10/2018 - 12/2018, 10/2017 - 12/2017
-- _Curves and surfaces_: 9/2017 - 10/2017, 9/2019 - 10/2019
-- _Calculus 2_: 10/2016 - 12/2016
-- _Stochastic processes_: 9/2016 - 10/2016
-- _Probability theory_: 1/2016 - 2/2016
-- _Functional analysis_: 9/2015 - 10/2015
-- _Principles of functional analysis_: 1/2015 - 4/2015
-- _Introduction to stochastic processes_: 9/2014 - 12/2014
-- _Matrix computations_: 1/2014 - 2/2014
-- _Numerical analysis for dynamical systems_: 9/2013 - 12/2013
+at Aalto University
+
+- **Brownian motion and stochastic analysis**: 4/2020 - 5/2020
+- **Probability and statistics**: 2/2020 - 4/2020
+- **Metric spaces**: 1/2020 - 2/2020, 1/2019 - 2/2019, 1/2018 - 2/2018, 1/2017 - 2/2017
+- **Complex analysis**: 10/2019 - 12/2019, 10/2018 - 12/2018, 10/2017 - 12/2017
+- **Curves and surfaces**: 9/2017 - 10/2017, 9/2019 - 10/2019
+- **Calculus 2**: 10/2016 - 12/2016
+- **Stochastic processes**: 9/2016 - 10/2016
+- **Probability theory**: 1/2016 - 2/2016
+- **Functional analysis_: 9/2015 - 10/2015
+- **Principles of functional analysis**: 1/2015 - 4/2015
+- **Introduction to stochastic processes**: 9/2014 - 12/2014
+- **Matrix computations**: 1/2014 - 2/2014
+- **Numerical analysis for dynamical systems**: 9/2013 - 12/2013
 
 * * *
 
-# Activities
+## Activities
 
-## Seminar talks
+### Seminar talks
 
 - _Stochastic Analysis seminar_, University of Bonn, 11/2019
 - _Workshop on Banach spaces and Banach lattices_, ICMAT, 9/2019
@@ -83,7 +97,7 @@ Visit also my [arXiv](https://arxiv.org/a/0000-0001-5010-7103) page.
 - _Stochastics and Statistics seminar_, Aalto university, 8/2018
 - _Geometry seminar_, University of Jyväskylä, 5/2018
 
-## Conferences
+### Conferences
 
 - [Dynamics, Geometry and Combinatorics](https://bernoulli.epfl.ch/events/1489), Bernoulli Center, CH, 10/2019
 - [Workshop on Banach spaces and Banach lattices](https://www.icmat.es/congresos/2019/BSBL/), ICMAT, ES, 9/2019
@@ -99,3 +113,5 @@ Visit also my [arXiv](https://arxiv.org/a/0000-0001-5010-7103) page.
 - [Dynamical Systems and Ergodic Theory](http://indico.ictp.it/event/a13242/), ICTP-NLAGA, SN, 6/2014
 - [Geometry and Dynamics](https://hasselblatttroubetzkoy.weebly.com/other-event.html), CIRM Luminy, FR, 3/2014
 - N5TeAM Summer School in Applied and Engineering Mathematics, FI, 8/2013
+
+
