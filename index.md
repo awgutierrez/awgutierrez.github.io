@@ -1,13 +1,17 @@
 
-- Postdoctoral Researcher, 
-[INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021
-- Postdoctoral Researcher, 
-[Aalto University][aalto]{:target="_blank"}, 2019 - 2020 
-- Doctor of Science (Technology), [Aalto University][aalto]{:target="_blank"} 2019
+* Postdoctoral Researcher  
+[INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021  
 
-My doctoral dissertation entitled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}" 
-was supervised by [Anders Karlsson][karlsson]{:target="_blank"} at University of Geneva, 
-and [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"} 
+* Postdoctoral Researcher  
+[Aalto University][aalto]{:target="_blank"}, 2019 - 2020  
+
+* Doctor of Science (Technology)  
+[Aalto University][aalto]{:target="_blank"} 2019  
+
+
+My doctoral dissertation entitled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}"  
+was supervised by [Anders Karlsson][karlsson]{:target="_blank"} at University of Geneva,   
+and [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"}   
 at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
@@ -27,19 +31,22 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 ## Publications and preprints 
 
 | title | journal | doi | pdf |
-| --- | --- | --- | --- |
-| __Characterizing the metric compactification of Lp spaces by random measures__ | _Annals of Functional Analysis, 11, 227–243 (2020)_ | [![DOI]][p3doi]{:target="_blank"} | [![PDF]][p3pdf]{:target="_blank"} |
-| __On the metric compactification of infinite-dimensional lp spaces__ | _Canadian Mathematical Bulletin, 62(3), 491-507 (2019)_ | [![DOI]][p2doi] | [![PDF]][p2pdf] |
-| __The horofunction boundary of finite-dimensional lp spaces__ | _Colloquium Mathematicum 155(1), 51-65 (2019)_ | [![DOI]][p1doi] | [![PDF]][p1pdf] | 
-| __Metric compactification of Banach spaces__ | _Aaltodoc (2019)_ |  | [![PDF]](https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf) |
-
-## Databases
-
-- [arXiv][arXiv]{:target="_blank"}
-- [google scholar][gs]{:target="_blank"}
-- [orcid][orcid]{:target="_blank"}
-- [aalto][aaltodata]{:target="_blank"}
-- [researchgate][rg]{:target="_blank"}
+| :--- | :--- | --- | --- |
+| **Characterizing the metric compactification of Lp spaces by random measures** |
+Annals of Functional Analysis, 11, 227–243 (2020) | 
+[![DOI]][p3doi]{:target="_blank"} | 
+[![PDF]][p3pdf]{:target="_blank"} |
+| **On the metric compactification of infinite-dimensional lp spaces** | 
+Canadian Mathematical Bulletin, 62(3), 491-507 (2019) | 
+[![DOI]][p2doi]{:target="_blank"} | 
+[![PDF]][p2pdf]{:target="_blank"} |
+| **The horofunction boundary of finite-dimensional lp spaces** | 
+Colloquium Mathematicum 155(1), 51-65 (2019) | 
+[![DOI]][p1doi]{:target="_blank"} | 
+[![PDF]][p1pdf]{:target="_blank"} | 
+| **Metric compactification of Banach spaces** | 
+Aaltodoc (2019) |  | 
+[![PDF]][thesispdf]{:target="_blank"} |
 
 [DOI]: ./DOI_logo.svg.png 
 [PDF]: ./PDF_file_icon.svg.png
@@ -52,6 +59,18 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 [p3pdf]: ./Lpmetricfunctionals.pdf
 [p3doi]: https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf
+
+[thesispdf]: https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf
+
+* * *
+
+## Databases
+
+- [arXiv][arXiv]{:target="_blank"}
+- [google scholar][gs]{:target="_blank"}
+- [orcid][orcid]{:target="_blank"}
+- [aalto][aaltodata]{:target="_blank"}
+- [researchgate][rg]{:target="_blank"}
 
 [arXiv]: https://arxiv.org/a/0000-0001-5010-7103
 [gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
@@ -73,7 +92,7 @@ at Aalto University
 - **Calculus 2**: 10/2016 - 12/2016
 - **Stochastic processes**: 9/2016 - 10/2016
 - **Probability theory**: 1/2016 - 2/2016
-- **Functional analysis_: 9/2015 - 10/2015
+- **Functional analysis**: 9/2015 - 10/2015
 - **Principles of functional analysis**: 1/2015 - 4/2015
 - **Introduction to stochastic processes**: 9/2014 - 12/2014
 - **Matrix computations**: 1/2014 - 2/2014
@@ -85,17 +104,28 @@ at Aalto University
 
 ### Seminar talks
 
-- _Stochastic Analysis seminar_, University of Bonn, 11/2019
-- _Workshop on Banach spaces and Banach lattices_, ICMAT, 9/2019
-- _Stochastics and Statistics seminar_, Aalto university, 8/2019
-- _Geometry seminar_, University of Jyväskylä, 5/2019
-- _INRIA Tropical team_, Ecole Polytechnique, 2/2019
-- _Analysis seminar_, University of Kent, 12/2018
-- _Analysis Stockholm seminar_, KTH Royal Institute of Technology, 11/2018
-- _Workshop on Operator Theoretic Aspects of Ergodic Theory_, University of Kiel, 11/2018
-- _Geometric and Functional Analysis seminar_, University of Helsinki, 9/2018
-- _Stochastics and Statistics seminar_, Aalto university, 8/2018
-- _Geometry seminar_, University of Jyväskylä, 5/2018
+- **Stochastic Analysis seminar**   
+University of Bonn, 11/2019
+- **Workshop on Banach spaces and Banach lattices**    
+ICMAT, 9/2019
+- **Stochastics and Statistics seminar**    
+Aalto university, 8/2019
+- **Geometry seminar**    
+University of Jyväskylä, 5/2019
+- **INRIA Tropical team**   
+Ecole Polytechnique, 2/2019
+- **Analysis seminar**    
+University of Kent, 12/2018
+- **Analysis Stockholm seminar**     
+KTH Royal Institute of Technology, 11/2018
+- **Workshop on Operator Theoretic Aspects of Ergodic Theory**    
+University of Kiel, 11/2018
+- **Geometric and Functional Analysis seminar**   
+University of Helsinki, 9/2018
+- **Stochastics and Statistics seminar**    
+Aalto university, 8/2018
+- **Geometry seminar**    
+University of Jyväskylä, 5/2018
 
 ### Conferences
 
