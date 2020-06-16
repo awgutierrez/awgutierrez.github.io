@@ -9,14 +9,11 @@
 [Aalto University][aalto]{:target="_blank"} 2019  
 
 
-My doctoral dissertation entitled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}"  
-was supervised by [Anders Karlsson][karlsson]{:target="_blank"} at University of Geneva,   
-and [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"}   
-at Aalto University.
+My doctoral dissertation entitled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}" was supervised by [Anders Karlsson][karlsson]{:target="_blank"} at University of Geneva, and [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"} at Aalto University.
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
-<img src="./e-mail.png" align="left" width="35" height="35" padding:2> __armando.w.gutierrez (at) protonmail.ch__
+<img src="./e-mail.png" align="left" width="35" height="35" padding:2> _armando.w.gutierrez (at) protonmail.ch_
 
 [inria]: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
 [lX]: https://www.polytechnique.edu/
@@ -32,21 +29,10 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 
 | title | journal | doi | pdf |
 | :--- | :--- | --- | --- |
-| **Characterizing the metric compactification of Lp spaces by random measures** |
-Annals of Functional Analysis, 11, 227–243 (2020) | 
-[![DOI]][p3doi]{:target="_blank"} | 
-[![PDF]][p3pdf]{:target="_blank"} |
-| **On the metric compactification of infinite-dimensional lp spaces** | 
-Canadian Mathematical Bulletin, 62(3), 491-507 (2019) | 
-[![DOI]][p2doi]{:target="_blank"} | 
-[![PDF]][p2pdf]{:target="_blank"} |
-| **The horofunction boundary of finite-dimensional lp spaces** | 
-Colloquium Mathematicum 155(1), 51-65 (2019) | 
-[![DOI]][p1doi]{:target="_blank"} | 
-[![PDF]][p1pdf]{:target="_blank"} | 
-| **Metric compactification of Banach spaces** | 
-Aaltodoc (2019) |  | 
-[![PDF]][thesispdf]{:target="_blank"} |
+| **Characterizing the metric compactification of Lp spaces by random measures** | Annals of Functional Analysis, 11, 227–243 (2020) | [![DOI]][p3doi]{:target="_blank"} | [![PDF]][p3pdf]{:target="_blank"} |
+| **On the metric compactification of infinite-dimensional lp spaces** | Canadian Mathematical Bulletin, 62(3), 491-507 (2019) | [![DOI]][p2doi]{:target="_blank"} | [![PDF]][p2pdf]{:target="_blank"} |
+| **The horofunction boundary of finite-dimensional lp spaces** | Colloquium Mathematicum 155(1), 51-65 (2019) | [![DOI]][p1doi]{:target="_blank"} | [![PDF]][p1pdf]{:target="_blank"} | 
+| **Metric compactification of Banach spaces** | Aaltodoc (2019) |  | [![PDF]][thesispdf]{:target="_blank"} |
 
 [DOI]: ./DOI_logo.svg.png 
 [PDF]: ./PDF_file_icon.svg.png
@@ -129,19 +115,34 @@ University of Jyväskylä, 5/2018
 
 ### Conferences
 
-- [Dynamics, Geometry and Combinatorics](https://bernoulli.epfl.ch/events/1489), Bernoulli Center, CH, 10/2019
-- [Workshop on Banach spaces and Banach lattices](https://www.icmat.es/congresos/2019/BSBL/), ICMAT, ES, 9/2019
-- [Workshop on Operator Theoretic Aspects of Ergodic Theory](https://www.math.uni-kiel.de/analysis/en/haase/otet07), University of Kiel, DE, 11/2018
-- [Probability, Analysis and Dynamics](https://people.maths.bris.ac.uk/~mb13434/pad18/), University of Bristol, GB, 4/2018
-- [Finite and Infinite-dimensional Dynamical Systems](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/C_FIDDS.aspx), CRM Barcelona, ES, 6/2017
-- [Thermodynamic Formalism and Transfer Operator Method](https://www.uni-math.gwdg.de/Spirit2015/), University of Göttingen, DE, 9/2015
-- [Geometries in action](http://geometrie.math.cnrs.fr/english.html), École Normale Supérieure de Lyon, FR, 6/2015
-- [Ergodic Theory and Combinatorics](http://docplayer.net/36069198-Ergodic-theory-and-combinatorics-conference-university-of-agder-kristiansand.html), University of Agder, NO, 6/2015
-- [Thematic Program on Boundaries and Dynamics](https://www3.nd.edu/~cmnd/programs/cmnd2015/conference/), University of Notre Dame, US, 5/2015
-- [Recent Trends in Nonlinear Science](http://www.dance-net.org/rtns2015/), University of Valladolid, ES, 1/2015
-- [Periodic and Ergodic Spectral Problems](https://www.newton.ac.uk/event/pep), Isaac Newton Institute for Mathematical Sciences, GB, 1/2015
-- [Dynamical Systems and Ergodic Theory](http://indico.ictp.it/event/a13242/), ICTP-NLAGA, SN, 6/2014
-- [Geometry and Dynamics](https://hasselblatttroubetzkoy.weebly.com/other-event.html), CIRM Luminy, FR, 3/2014
-- N5TeAM Summer School in Applied and Engineering Mathematics, FI, 8/2013
+- [Dynamics, Geometry and Combinatorics](https://bernoulli.epfl.ch/events/1489)   
+Bernoulli Center, CH, 10/2019
+- [Workshop on Banach spaces and Banach lattices](https://www.icmat.es/congresos/2019/BSBL/)   
+ICMAT, ES, 9/2019
+- [Workshop on Operator Theoretic Aspects of Ergodic Theory](https://www.math.uni-kiel.de/analysis/en/haase/otet07)   
+University of Kiel, DE, 11/2018
+- [Probability, Analysis and Dynamics](https://people.maths.bris.ac.uk/~mb13434/pad18/)   
+University of Bristol, GB, 4/2018
+- [Finite and Infinite-dimensional Dynamical Systems](http://www.crm.cat/en/Activities/Curs_2016-2017/Pages/C_FIDDS.aspx)   
+CRM Barcelona, ES, 6/2017
+- [Thermodynamic Formalism and Transfer Operator Method](https://www.uni-math.gwdg.de/Spirit2015/)   
+University of Göttingen, DE, 9/2015
+- [Geometries in action](http://geometrie.math.cnrs.fr/english.html)   
+École Normale Supérieure de Lyon, FR, 6/2015
+- [Ergodic Theory and Combinatorics](http://docplayer.net/36069198-Ergodic-theory-and-combinatorics-conference-university-of-agder-kristiansand.html)   
+University of Agder, NO, 6/2015
+- [Thematic Program on Boundaries and Dynamics](https://www3.nd.edu/~cmnd/programs/cmnd2015/conference/)   
+University of Notre Dame, US, 5/2015
+- [Recent Trends in Nonlinear Science](http://www.dance-net.org/rtns2015/)   
+University of Valladolid, ES, 1/2015
+- [Periodic and Ergodic Spectral Problems](https://www.newton.ac.uk/event/pep)   
+Isaac Newton Institute for Mathematical Sciences, GB, 1/2015
+- [Dynamical Systems and Ergodic Theory](http://indico.ictp.it/event/a13242/)   
+ICTP-NLAGA, SN, 6/2014
+- [Geometry and Dynamics](https://hasselblatttroubetzkoy.weebly.com/other-event.html)    
+CIRM Luminy, FR, 3/2014
+- N5TeAM Summer School in Applied and Engineering Mathematics   
+FI, 8/2013
 
-
+${e}^{i\pi }+1=0$
+\\({e}^{i\pi }+1=0\\)
