@@ -36,8 +36,8 @@ _Canadian Mathematical Bulletin_, 62(3), 491-507 (2019)
 
 - **The horofunction boundary of finite-dimensional lp spaces**  
 _Colloquium Mathematicum_, 155(1), 51-65 (2019) 
-[![DOI]{: width=60 height=60 style="float:right; padding:16px"}][p1doi]{:target="_blank"}
-[![PDF]{: width=60 height=60 style="float:right; padding:16px"}][p1pdf]{:target="_blank"} 
+[![DOI]{: width=40 height=40 ; padding:16px"}][p1doi]{:target="_blank"}
+[![PDF]{: width=40 height=40 ; padding:16px"}][p1pdf]{:target="_blank"} 
 
 - **Metric compactification of Banach spaces**  
 _Aaltodoc_ (2019) [![PDF]][thesispdf]{:target="_blank"} 
