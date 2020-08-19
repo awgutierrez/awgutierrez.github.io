@@ -56,7 +56,12 @@ _Aaltodoc_ (2019) [![PDF]][thesispdf]{:target="_blank"}
 
 [thesispdf]: https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf
 
-
+<style>
+  img[src*="#thumbnail"] {
+   width:150px;
+   height:100px;
+}
+</style>  
 * * *
 
 ## Databases
