@@ -58,8 +58,8 @@ _Aaltodoc_ (2019) [![PDF]][thesispdf]{:target="_blank"}
 
 <style>
   img[src*="#thumbnail"] {
-   width:150px;
-   height:100px;
+   width:30px;
+   height:30px;
 }
 </style>  
 * * *
