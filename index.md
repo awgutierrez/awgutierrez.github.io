@@ -14,7 +14,7 @@ My doctoral dissertation entitled "[Metric compactification of Banach spaces][th
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
 
-![email1] _armando.w.gutierrez (at) protonmail.ch_
+![email1] &nbsp;&nbsp; _armando.w.gutierrez (at) protonmail.ch_
 
 [inria]: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
 [lX]: https://www.polytechnique.edu/
@@ -32,13 +32,13 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 _Annals of Functional Analysis_, 11, 227–243 (2020) &nbsp;&nbsp; [![DOI]][p3doi]{:target="_blank"} &nbsp;&nbsp; [![PDF]][p3pdf]{:target="_blank"} 
 
 - **On the metric compactification of infinite-dimensional lp spaces**  
-_Canadian Mathematical Bulletin_, 62(3), 491-507 (2019)   [![DOI]][p2doi]{:target="_blank"}   [![PDF]][p2pdf]{:target="_blank"} 
+_Canadian Mathematical Bulletin_, 62(3), 491-507 (2019) &nbsp;&nbsp; [![DOI]][p2doi]{:target="_blank"} &nbsp;&nbsp; [![PDF]][p2pdf]{:target="_blank"} 
 
 - **The horofunction boundary of finite-dimensional lp spaces**  
-_Colloquium Mathematicum_, 155(1), 51-65 (2019)   [![DOI]][p1doi]{:target="_blank"}   [![PDF]][p1pdf]{:target="_blank"} 
+_Colloquium Mathematicum_, 155(1), 51-65 (2019) &nbsp;&nbsp; [![DOI]][p1doi]{:target="_blank"} &nbsp;&nbsp; [![PDF]][p1pdf]{:target="_blank"} 
 
 - **Metric compactification of Banach spaces**  
-_Aaltodoc_ (2019)   [![PDF]][thesispdf]{:target="_blank"} 
+_Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"} 
 
 
 [email1]: ./e-mail.png#thumbnail
