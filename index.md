@@ -13,7 +13,8 @@ My doctoral dissertation entitled "[Metric compactification of Banach spaces][th
 
 My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
 
-<img src="./e-mail.png" align="left" width="35" height="35" padding:2> _armando.w.gutierrez (at) protonmail.ch_
+
+![email1] _armando.w.gutierrez (at) protonmail.ch_
 
 [inria]: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
 [lX]: https://www.polytechnique.edu/
@@ -28,19 +29,19 @@ My research work focuses on the interplay between Metric Geometry, Functional An
 ## Publications and preprints 
 
 - **Characterizing the metric compactification of Lp spaces by random measures**  
-_Annals of Functional Analysis_, 11, 227–243 (2020) [![DOI]][p3doi]{:target="_blank"}  [![PDF]][p3pdf]{:target="_blank"} 
+_Annals of Functional Analysis_, 11, 227–243 (2020)   [![DOI]][p3doi]{:target="_blank"}   [![PDF]][p3pdf]{:target="_blank"} 
 
 - **On the metric compactification of infinite-dimensional lp spaces**  
-_Canadian Mathematical Bulletin_, 62(3), 491-507 (2019) 
-[![DOI]][p2doi]{:target="_blank"}  [![PDF]][p2pdf]{:target="_blank"} 
+_Canadian Mathematical Bulletin_, 62(3), 491-507 (2019)   [![DOI]][p2doi]{:target="_blank"}   [![PDF]][p2pdf]{:target="_blank"} 
 
 - **The horofunction boundary of finite-dimensional lp spaces**  
-_Colloquium Mathematicum_, 155(1), 51-65 (2019) 
-[![DOI]][p1doi]{:target="_blank"}
-[![PDF]][p1pdf]{:target="_blank"} 
+_Colloquium Mathematicum_, 155(1), 51-65 (2019)   [![DOI]][p1doi]{:target="_blank"}   [![PDF]][p1pdf]{:target="_blank"} 
 
 - **Metric compactification of Banach spaces**  
-_Aaltodoc_ (2019) [![PDF]][thesispdf]{:target="_blank"} 
+_Aaltodoc_ (2019)   [![PDF]][thesispdf]{:target="_blank"} 
+
+
+[email1]: ./e-mail.png#thumbnail
 
 [DOI]: ./DOI_logo.svg.png#thumbnail 
 [PDF]: ./PDF_file_icon.svg.png#thumbnail
@@ -58,10 +59,11 @@ _Aaltodoc_ (2019) [![PDF]][thesispdf]{:target="_blank"}
 
 <style>
   img[src*="#thumbnail"] {
-   width:30px;
-   height:30px;
+   width:40px;
+   height:40px;
 }
 </style>  
+
 * * *
 
 ## Databases
