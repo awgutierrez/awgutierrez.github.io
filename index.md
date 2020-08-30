@@ -84,9 +84,11 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 
 - [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} 
 - [Otto A. Malm Foundation][ottomalm]{:target="_blank"} 
+- Aalto-korkeakoulusäätiö
 
 [acadsci]: https://www.acadsci.fi/en/
 [ottomalm]: http://en.ottomalm.fi.kotisivukone.com/
+
 
 * * *
 
