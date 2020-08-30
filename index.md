@@ -66,18 +66,27 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 
 * * *
 
-## Databases
+## Profiles
 
-- [arXiv][arXiv]{:target="_blank"}
-- [google scholar][gs]{:target="_blank"}
-- [orcid][orcid]{:target="_blank"}
-- [aalto][aaltodata]{:target="_blank"}
+[arXiv][arXiv]{:target="_blank"}  | [google scholar][gs]{:target="_blank"}  
+[orcid][orcid]{:target="_blank"}  | [aalto][aaltodata]{:target="_blank"}
+
 
 [arXiv]: https://arxiv.org/a/0000-0001-5010-7103
 [gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
 [orcid]: https://orcid.org/0000-0001-5010-7103
 [aaltodata]: https://research.aalto.fi/en/searchAll/index/?search=armando+gutierrez&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle
 [rg]: https://www.researchgate.net/profile/Armando_Gutierrez5
+
+* * *
+
+## Awards and Grants
+
+2020 [Finnish Academy of Science and Letters][acadsci]{:target="_blank"}
+2020 [Otto A. Malm Foundation][ottomalm]{:target="_blank"}
+
+[acadsci]: https://www.acadsci.fi/en/
+[ottomalm]: http://en.ottomalm.fi.kotisivukone.com/
 
 * * *
 
