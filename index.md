@@ -82,8 +82,8 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 
 ## Awards and Grants
 
-2020 [Finnish Academy of Science and Letters][acadsci]{:target="_blank"}
-2020 [Otto A. Malm Foundation][ottomalm]{:target="_blank"}
+- [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} 
+- [Otto A. Malm Foundation][ottomalm]{:target="_blank"} 
 
 [acadsci]: https://www.acadsci.fi/en/
 [ottomalm]: http://en.ottomalm.fi.kotisivukone.com/
