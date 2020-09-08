@@ -9,9 +9,9 @@
 [Aalto University][aalto]{:target="_blank"} 2019  
 
 
-My doctoral dissertation entitled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}" was supervised by [Anders Karlsson][karlsson]{:target="_blank"} at University of Geneva, and [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"} at Aalto University.
+My doctoral dissertation titled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}" was supervised by [Anders Karlsson][karlsson]{:target="_blank"} from University of Geneva together with [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"} from Aalto University.
 
-My research work focuses on the interplay between Metric Geometry, Functional Analysis, and Probability. 
+My research interests lie broadly in metric geometry, functional analysis, and probability. 
 
 
 ![email1] &nbsp;&nbsp; _armando.w.gutierrez (at) protonmail.ch_
