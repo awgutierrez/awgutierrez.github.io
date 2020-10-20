@@ -1,9 +1,11 @@
 
 * Postdoctoral Researcher  
-[INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021  
+[INRIA Saclay][inria]{:target="_blank"} - [CMAP École Polytechnique][lX]{:target="_blank"}, 2020 - 2021  
+Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"}
 
 * Postdoctoral Researcher  
 [Aalto University][aalto]{:target="_blank"}, 2019 - 2020  
+Mentor: [Kalle Kytölä][kytola]{:target="_blank"}
 
 * Doctor of Science (Technology)  
 [Aalto University][aalto]{:target="_blank"} 2019  
@@ -14,7 +16,7 @@ My doctoral dissertation titled "[Metric compactification of Banach spaces][thes
 My research interests lie broadly in metric geometry, functional analysis, and probability. 
 
 
-![email1] &nbsp;&nbsp; _armando.w.gutierrez (at) protonmail.ch_
+![email1] &nbsp;&nbsp; _armando.w.gutierrez (at) inria.fr_
 
 [inria]: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
 [lX]: https://www.polytechnique.edu/
@@ -23,6 +25,8 @@ My research interests lie broadly in metric geometry, functional analysis, and p
 [karlsson]: https://www.unige.ch/math/folks/karlsson/
 [kytola]: https://math.aalto.fi/~kkytola/
 [nevanlinna]: https://math.aalto.fi/en/people/olavi.nevanlinna
+[cormac]: https://homepages.dias.ie/walsh/
+[gaubert]: http://www.cmap.polytechnique.fr/~gaubert/
 
 * * *
 
@@ -82,9 +86,9 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 
 ## Awards and Grants
 
-- [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} 
-- [Otto A. Malm Foundation][ottomalm]{:target="_blank"} 
-- Aalto-korkeakoulusäätiö
+- 2020 [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} 
+- 2020 [Otto A. Malm Foundation][ottomalm]{:target="_blank"} 
+- 2019 Aalto-korkeakoulusäätiö
 
 [acadsci]: https://www.acadsci.fi/en/
 [ottomalm]: http://en.ottomalm.fi.kotisivukone.com/
@@ -114,7 +118,7 @@ at Aalto University
 
 ## Activities
 
-### Seminar talks
+### Invited seminar talks
 
 - **Stochastic Analysis seminar**   
 University of Bonn, 11/2019
@@ -139,8 +143,10 @@ Aalto university, 8/2018
 - **Geometry seminar**    
 University of Jyväskylä, 5/2018
 
-### Conferences
+### Participation in conferences
 
+- [2020 Fields Medal Symposium. Alessio Figalli](http://www.fields.utoronto.ca/activities/20-21/fieldsmedalsym)
+online 10/2020
 - [Dynamics, Geometry and Combinatorics](https://bernoulli.epfl.ch/events/1489)   
 Bernoulli Center, CH, 10/2019
 - [Workshop on Banach spaces and Banach lattices](https://www.icmat.es/congresos/2019/BSBL/)   
