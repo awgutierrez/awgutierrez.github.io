@@ -9,7 +9,7 @@ My doctoral dissertation titled "[Metric compactification of Banach spaces][thes
 My research interests lie broadly in metric geometry, functional analysis, and probability. 
 
 
-![email1] &nbsp;&nbsp; _armando.w.gutierrez (at) inria.fr_
+|![email1] | _armando.w.gutierrez (at) inria.fr_ |
 
 [inria]: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
 [lX]: https://www.polytechnique.edu/
