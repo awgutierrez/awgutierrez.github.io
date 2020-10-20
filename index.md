@@ -1,13 +1,13 @@
 
-* Postdoctoral Researcher  
+Postdoctoral Researcher  
 [INRIA Saclay][inria]{:target="_blank"} - [CMAP École Polytechnique][lX]{:target="_blank"}, 2020 - 2021  
 Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"}
-
-* Postdoctoral Researcher  
+|
+Postdoctoral Researcher  
 [Aalto University][aalto]{:target="_blank"}, 2019 - 2020  
 Mentor: [Kalle Kytölä][kytola]{:target="_blank"}
-
-* Doctor of Science (Technology)  
+|
+Doctor of Science (Technology)  
 [Aalto University][aalto]{:target="_blank"} 2019  
 
 
