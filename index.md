@@ -1,15 +1,15 @@
 
-| Postdoctoral Researcher <br> [INRIA Saclay][inria]{:target="_blank"} - [CMAP École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> 
-Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
-| Postdoctoral Researcher <br> [Aalto University][aalto]{:target="_blank"}, 2019 - 2020 <br> Mentor: [Kalle Kytölä][kytola]{:target="_blank"} |
-| Doctor of Science (Technology) <br> [Aalto University][aalto]{:target="_blank"} 2019  |
+| **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} - [CMAP École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
+| **Postdoctoral Researcher** <br> [Aalto University][aalto]{:target="_blank"}, 2019 - 2020 <br> Mentor: [Kalle Kytölä][kytola]{:target="_blank"} |
+| **Doctor of Science (Technology)** <br> [Aalto University][aalto]{:target="_blank"} 2019 |
 
 My doctoral dissertation titled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}" was supervised by [Anders Karlsson][karlsson]{:target="_blank"} from University of Geneva together with [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"} from Aalto University.
 
 My research interests lie broadly in metric geometry, functional analysis, and probability. 
 
 
-|![email1] | _armando.w.gutierrez (at) inria.fr_ |
+
+|![email1] | __armando.w.gutierrez (at) inria.fr__ |
 
 [inria]: https://www.inria.fr/en/centre-inria-saclay-ile-de-france
 [lX]: https://www.polytechnique.edu/
