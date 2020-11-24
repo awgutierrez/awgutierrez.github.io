@@ -1,5 +1,5 @@
 
-| **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} - [CMAP École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
+| **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
 | **Postdoctoral Researcher** <br> [Aalto University][aalto]{:target="_blank"}, 2019 - 2020 <br> Mentor: [Kalle Kytölä][kytola]{:target="_blank"} |
 | **Doctor of Science (Technology)** <br> [Aalto University][aalto]{:target="_blank"} 2019 |
 
@@ -73,7 +73,6 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 [gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
 [orcid]: https://orcid.org/0000-0001-5010-7103
 [aaltodata]: https://research.aalto.fi/en/searchAll/index/?search=armando+gutierrez&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle
-[rg]: https://www.researchgate.net/profile/Armando_Gutierrez5
 
 * * *
 
@@ -138,8 +137,10 @@ University of Jyväskylä, 5/2018
 
 ### Participation in conferences
 
+- [Mathematical Foundations of Optimisation in Data Science](https://gateway.newton.ac.uk/event/tgmw77)
+Newton Gateway to Mathematics (virtual) 11/2020
 - [2020 Fields Medal Symposium. Alessio Figalli](http://www.fields.utoronto.ca/activities/20-21/fieldsmedalsym)
-online 10/2020
+Fields Institute (virtual) 10/2020
 - [Dynamics, Geometry and Combinatorics](https://bernoulli.epfl.ch/events/1489)   
 Bernoulli Center, CH, 10/2019
 - [Workshop on Banach spaces and Banach lattices](https://www.icmat.es/congresos/2019/BSBL/)   
