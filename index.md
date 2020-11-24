@@ -137,10 +137,10 @@ University of Jyväskylä, 5/2018
 
 ### Participation in conferences
 
-- [Mathematical Foundations of Optimisation in Data Science](https://gateway.newton.ac.uk/event/tgmw77)
+- [Mathematical Foundations of Optimisation in Data Science](https://gateway.newton.ac.uk/event/tgmw77)   
 Newton Gateway to Mathematics (virtual) 11/2020
-- [2020 Fields Medal Symposium. Alessio Figalli](http://www.fields.utoronto.ca/activities/20-21/fieldsmedalsym)
-Fields Institute (virtual) 10/2020
+- [2020 Fields Medal Symposium. Alessio Figalli](http://www.fields.utoronto.ca/activities/20-21/fieldsmedalsym)   
+The Fields Institute for Research in Mathematical Sciences (virtual) 10/2020
 - [Dynamics, Geometry and Combinatorics](https://bernoulli.epfl.ch/events/1489)   
 Bernoulli Center, CH, 10/2019
 - [Workshop on Banach spaces and Banach lattices](https://www.icmat.es/congresos/2019/BSBL/)   
