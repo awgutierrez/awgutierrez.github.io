@@ -1,5 +1,5 @@
 
-| **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
+| **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 funded by the [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
 | **Postdoctoral Researcher** <br> [Aalto University][aalto]{:target="_blank"}, 2019 - 2020 <br> Mentor: [Kalle Kytölä][kytola]{:target="_blank"} |
 | **Doctor of Science (Technology)** <br> [Aalto University][aalto]{:target="_blank"} 2019 |
 
@@ -76,7 +76,7 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 
 * * *
 
-## Awards and Grants
+## Grants
 
 - 2020 [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} 
 - 2020 [Otto A. Malm Foundation][ottomalm]{:target="_blank"} 
