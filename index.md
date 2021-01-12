@@ -137,6 +137,8 @@ University of Jyväskylä, 5/2018
 
 ### Participation in conferences
 
+- [Trimester Program The Interplay between High-Dimensional Geometry and Probability](https://www.him.uni-bonn.de/programs/current-trimester-program/interplay-high-dimensional-geometry-probability/description/)   
+Hausdorff Research Institute for Mathematics (virtual) 1/2021 - 4/2021
 - [Mathematical Foundations of Optimisation in Data Science](https://gateway.newton.ac.uk/event/tgmw77)   
 Newton Gateway to Mathematics (virtual) 11/2020
 - [2020 Fields Medal Symposium. Alessio Figalli](http://www.fields.utoronto.ca/activities/20-21/fieldsmedalsym)   
