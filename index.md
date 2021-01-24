@@ -1,5 +1,5 @@
 
-| **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} - [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> Funded by the [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
+| **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} and [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> Funded by the [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
 | **Postdoctoral Researcher** <br> [Aalto University][aalto]{:target="_blank"}, 2019 - 2020 <br> Mentor: [Kalle Kytölä][kytola]{:target="_blank"} |
 | **Doctor of Science (Technology)** <br> [Aalto University][aalto]{:target="_blank"} 2019 |
 
@@ -20,6 +20,18 @@ My research interests lie broadly in metric geometry, functional analysis, and p
 [nevanlinna]: https://math.aalto.fi/en/people/olavi.nevanlinna
 [cormac]: https://homepages.dias.ie/walsh/
 [gaubert]: http://www.cmap.polytechnique.fr/~gaubert/
+
+* * *
+## Profiles
+
+[arXiv][arXiv]{:target="_blank"}  | [google scholar][gs]{:target="_blank"}  
+[orcid][orcid]{:target="_blank"}  | [aalto][aaltodata]{:target="_blank"}
+
+
+[arXiv]: https://arxiv.org/a/0000-0001-5010-7103
+[gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
+[orcid]: https://orcid.org/0000-0001-5010-7103
+[aaltodata]: https://research.aalto.fi/en/searchAll/index/?search=armando+gutierrez&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle
 
 * * *
 
@@ -63,19 +75,6 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 
 * * *
 
-## Profiles
-
-[arXiv][arXiv]{:target="_blank"}  | [google scholar][gs]{:target="_blank"}  
-[orcid][orcid]{:target="_blank"}  | [aalto][aaltodata]{:target="_blank"}
-
-
-[arXiv]: https://arxiv.org/a/0000-0001-5010-7103
-[gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
-[orcid]: https://orcid.org/0000-0001-5010-7103
-[aaltodata]: https://research.aalto.fi/en/searchAll/index/?search=armando+gutierrez&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle
-
-* * *
-
 ## Grants
 
 - 2020 [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} 
@@ -97,7 +96,7 @@ at Aalto University
 - **Metric spaces**: 1/2020 - 2/2020, 1/2019 - 2/2019, 1/2018 - 2/2018, 1/2017 - 2/2017
 - **Complex analysis**: 10/2019 - 12/2019, 10/2018 - 12/2018, 10/2017 - 12/2017
 - **Curves and surfaces**: 9/2017 - 10/2017, 9/2019 - 10/2019
-- **Calculus 2**: 10/2016 - 12/2016
+- **Differential and integral calculus 2**: 10/2016 - 12/2016
 - **Stochastic processes**: 9/2016 - 10/2016
 - **Probability theory**: 1/2016 - 2/2016
 - **Functional analysis**: 9/2015 - 10/2015
