@@ -28,9 +28,9 @@ My research interests lie broadly in metric geometry, functional analysis, proba
 <!-- [orcid][orcid]{:target="_blank"} -->
 
 [arXiv]: https://arxiv.org/a/0000-0001-5010-7103
-[gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
+[gs]: https://scholar.google.fi/citations?user=hnBZJrQAAAAJ&hl=en
 [orcid]: https://orcid.org/0000-0001-5010-7103
-[aaltodata]: https://research.aalto.fi/en/searchAll/index/?search=armando+gutierrez&pageSize=25&showAdvanced=false&allConcepts=true&inferConcepts=true&searchBy=PartOfNameOrTitle
+[aaltodata]: https://research.aalto.fi/en/searchAll/index/?search=armando+gutierrez
 
 * * *
 
@@ -54,13 +54,13 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 [DOI]: ./DOI_logo.svg.png#thumbnail 
 [PDF]: ./PDF_file_icon.svg.png#thumbnail
 
-[p1pdf]: ./lphoroboundary_onlinefirst.pdf
+[p1pdf]: ./_publications/lphoroboundary_onlinefirst.pdf
 [p1doi]: https://doi.org/10.4064/cm7320-3-2018
 
-[p2pdf]: ./lpcompactification_onlinefirst.pdf
+[p2pdf]: ./_publications/lpcompactification_onlinefirst.pdf
 [p2doi]: https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-the-metric-compactification-of-infinitedimensional-ell-p-spaces/BA73E83FEC3E2E7BD7215211C5005EC3/share/1b752366af87d4023e9882f0bbbd700815464f37
 
-[p3pdf]: ./Lpmetricfunctionals.pdf
+[p3pdf]: ./_publications/Lpmetricfunctionals.pdf
 [p3doi]: https://link.springer.com/article/10.1007/s43034-019-00024-1
 
 [thesispdf]: https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf
