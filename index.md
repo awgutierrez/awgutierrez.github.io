@@ -61,7 +61,7 @@ _Aaltodoc_ (2019) &nbsp;&nbsp; [![PDF]][thesispdf]{:target="_blank"}
 [p2doi]: https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-the-metric-compactification-of-infinitedimensional-ell-p-spaces/BA73E83FEC3E2E7BD7215211C5005EC3/share/1b752366af87d4023e9882f0bbbd700815464f37
 
 [p3pdf]: ./Lpmetricfunctionals.pdf
-[p3doi]: https://link.springer.com/content/pdf/10.1007/s43034-019-00024-1.pdf
+[p3doi]: https://link.springer.com/article/10.1007/s43034-019-00024-1
 
 [thesispdf]: https://aaltodoc.aalto.fi/bitstream/handle/123456789/41224/isbn9789526088112.pdf
 
