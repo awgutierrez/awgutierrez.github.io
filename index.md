@@ -5,7 +5,7 @@
 
 My doctoral dissertation titled "[Metric compactification of Banach spaces][thesis]{:target="_blank"}" was supervised by [Anders Karlsson][karlsson]{:target="_blank"} from University of Geneva together with [Kalle Kytölä][kytola]{:target="_blank"} and [Olavi Nevanlinna][nevanlinna]{:target="_blank"} from Aalto University.
 
-My research interests lie broadly in metric geometry, functional analysis, and probability. 
+My research interests lie broadly in metric geometry, functional analysis, probability, and dynamics. 
 
 
 
@@ -24,9 +24,8 @@ My research interests lie broadly in metric geometry, functional analysis, and p
 * * *
 ## Profiles
 
-[arXiv][arXiv]{:target="_blank"}  | [google scholar][gs]{:target="_blank"}  
-[orcid][orcid]{:target="_blank"}  | [aalto][aaltodata]{:target="_blank"}
-
+[arXiv][arXiv]{:target="_blank"}  | [google scholar][gs]{:target="_blank"}  | [aalto][aaltodata]{:target="_blank"}
+<!-- [orcid][orcid]{:target="_blank"} -->
 
 [arXiv]: https://arxiv.org/a/0000-0001-5010-7103
 [gs]: https://scholar.google.fi/citations?hl=en&user=xVvnb7sAAAAJ
