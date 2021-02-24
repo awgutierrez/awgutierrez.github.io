@@ -1,3 +1,9 @@
+---
+layout: redirected
+sitemap: false
+permalink: https://awgutierrez.github.io/
+redirect_to:  /newlocation/
+---
 theme: jekyll-theme-cayman
 title: Armando W. Gutiérrez
 description: postdoctoral researcher in mathematics
