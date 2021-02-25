@@ -4,6 +4,9 @@ sitemap: false
 permalink: https://awgutierrez.github.io/
 redirect_to:  https://armando-w-gutierrez.netlify.app/
 
+gems:
+  - jekyll-redirect-from
+  
 theme: jekyll-theme-cayman
 title: Armando W. Gutiérrez
 description: postdoctoral researcher in mathematics
