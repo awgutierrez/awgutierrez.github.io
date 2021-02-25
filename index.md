@@ -1,4 +1,6 @@
-
+---
+redirect_to: "https://armando-w-gutierrez.netlify.app/"
+---
 | **Postdoctoral Researcher** <br> [INRIA Saclay][inria]{:target="_blank"} and [École Polytechnique][lX]{:target="_blank"}, 2020 - 2021 <br> Funded by the [Finnish Academy of Science and Letters][acadsci]{:target="_blank"} <br> Mentors: [Cormac Walsh][cormac]{:target="_blank"} and [Stéphane Gaubert][gaubert]{:target="_blank"} |
 | **Postdoctoral Researcher** <br> [Aalto University][aalto]{:target="_blank"}, 2019 - 2020 <br> Mentor: [Kalle Kytölä][kytola]{:target="_blank"} |
 | **Doctor of Science (Technology)** <br> [Aalto University][aalto]{:target="_blank"} 2019 |
