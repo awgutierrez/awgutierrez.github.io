@@ -10,10 +10,10 @@ gems:
 theme: jekyll-theme-cayman
 title: Armando W. Gutiérrez
 description: postdoctoral researcher in mathematics
-tagline: postdoctoral researcher at Aalto University
+tagline: postdoctoral researcher
 url: https://awgutierrez.github.io/
 author: Armando W. Gutiérrez
-google-site-verification: google84436875eb5f381d.html
+google-site-verification: 
 social:
   name: Armando W. Gutiérrez
   links:
@@ -21,7 +21,7 @@ social:
     - https://www.researchgate.net/profile/Armando_Gutierrez5
     - https://orcid.org/0000-0001-5010-7103
 markdown: kramdown
-google_analytics: UA-142698973-2
+google_analytics: 
 kramdown:
   math_engine: katex
   syntax_highlighter: rouge
