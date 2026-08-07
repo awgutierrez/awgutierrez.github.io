@@ -56,9 +56,24 @@ taxonomies:
   tag: tags
   publication_type: publication_types
 markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - '\['
+            - '\]'
+          - - $$
+            - $$
+          inline:
+          - - '\('
+            - '\)'
+        enable: true
   _merge: deep
   highlight:
     lineNos: false
+params:
+  math: true
 security:
   _merge: deep
 sitemap:
