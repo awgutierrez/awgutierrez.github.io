@@ -21,11 +21,11 @@ removePathAccents: true
 ## PAGE OPTIONS
 ############################
 
-#cascade:
-#  - target:
-#      path: /slides/**
-#      kind: page
-#    outputs: [HTML, present]
+cascade:
+  - target:
+      path: /slides/**
+      kind: page
+    outputs: [HTML, present]
 
 ############################
 ## ADVANCED
@@ -78,6 +78,5 @@ params:
   math: true
 security:
   _merge: deep
-  disable: true
 sitemap:
   _merge: deep
