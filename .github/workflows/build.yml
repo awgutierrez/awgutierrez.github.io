@@ -140,7 +140,12 @@ jobs:
         if [ -f "package.json" ] && grep -q "pagefind" package.json; then
           pnpm run pagefind || npx pagefind --site "public"
         fi
-
+    
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v5
+      with:
+        include-hidden-files: true
+        path: ./public
     - name: Upload artifact
       id: upload
       uses: actions/upload-pages-artifact@v4
