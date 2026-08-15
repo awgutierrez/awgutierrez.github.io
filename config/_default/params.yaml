@@ -119,7 +119,7 @@ hugoblox:
     license:
       type: cc # cc | custom
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -142,12 +142,12 @@ hugoblox:
         longitude: null
       phone: ""
     # AI/LLM crawler guidance (llms.txt)
-    ai:
-      allow:
-        - /
-      disallow: []
-      note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+#    ai:
+#      allow:
+#        - /
+#      disallow: []
+#      note: "Guidance for AI crawlers - customize to match your public content."
+#      contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
