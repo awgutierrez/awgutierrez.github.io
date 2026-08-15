@@ -48,23 +48,25 @@ abstract: The notion of metric compactification was introduced by Gromov and lat
 
 tags:
 - Metric Functionals
-- \(\ell_p\) Spaces
+- Metric Spaces
 - Metric Compactification
 - Banach Spaces
+- Hilbert Spaces
 
 featured: true
 
-#hugoblox:
-#  ids:
-#    arxiv: 1802.04710
+hugoblox:
+  ids:
+#    doi: 
+    arxiv: "1802.04710"
 
 links:
   - type: custom
     label: doi
     url: https://www.cambridge.org/core/journals/canadian-mathematical-bulletin/article/on-the-metric-compactification-of-infinitedimensional-ell-p-spaces/BA73E83FEC3E2E7BD7215211C5005EC3
-  - type: custom
-    label: arxiv
-    url: https://arxiv.org/pdf/1802.04710  
+#  - type: custom
+#    label: arxiv
+#    url: https://arxiv.org/pdf/1802.04710  
  # - type: code
  #   url: https://github.com/HugoBlox/kit
  # - type: dataset

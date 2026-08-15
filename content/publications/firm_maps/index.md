@@ -1,9 +1,10 @@
 ---
-title: The Horofunction Boundary of Finite Dimensional \(\ell_p\) Spaces 
+title: Firm non-expansive mappings in weak metric spaces 
 authors:
 - me
+- Cormac Walsh
 
-date: "2018-10-19T00:00:00Z"
+date: "2022-05-21T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -15,33 +16,33 @@ publication_types: ["article-journal"]
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
-  name: "Colloquium Mathematicum"
-  volume: 155
-  issue: 1
-  pages: 51--65
+  name: "Archiv der Mathematik"
+  volume: 119
+  issue: 4
+  pages: 389--400
 
 peer_reviewed: true
 open_access: true
 #license: CC-BY-4.0
 
-abstract: We give a complete description of the horofunction boundary of finite dimensional \(\ell_p\) spaces for \(1\leq p \leq \infty\). We also study the variation norm on \(\mathbb{R}^n\), and the corresponding horofunction boundary. As a consequence, we describe the horofunctions for Hilbert's projective metric on the interior of the standard cone \(\mathbb{R}_{+}^n\) of \(\mathbb{R}^n\).
+abstract: We introduce the notion of firm non-expansive mapping in weak metric spaces, extending previous work for Banach spaces and certain geodesic spaces. We prove that, for firm non-expansive mappings, the minimal displacement, the linear rate of escape, and the asymptotic step size are all equal. This generalises a theorem by Reich and Shafrir.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Metric Functionals
-- Horofunctions
-- Horofunction Boundary
-- Normed Spaces
-- Hilbert's Projective Metric
+- Firm Mappings
+- Nonexpansive Mappings
+- Weak Metrics
+- Fixed Points
 
 featured: true
 
 hugoblox:
   ids:
-    doi: 10.4064/cm7320-3-2018
-    arxiv: 1709.03462
+    doi: "10.1007/s00013-022-01759-5"
+    arxiv: "2110.13195"
 
 links:
 #  - type: custom
@@ -96,14 +97,3 @@ params:
 Main results
 ------------
 
-> [!success] Metric functionals on \(\ell_1^n\)
-> Every metric functional on \(\ell_1^n\) is either internal or of the form
-$$ h(x) = \sum_{i\in I}\epsilon_i x_i + \sum_{i\not\in I}(|x_i - \mu_i| - |\mu_i|),$$
-> where \(\empty \neq I \subseteq [n]\), \((\epsilon_i) \in \{-1, 1\}^I\), and 
-\((\mu_i) \in \mathbb{R}^{[n]\setminus I}\).
-
-> [!success] Metric functionals on \(\ell_p^n\) with \(1 < p < \infty\)
-> Every metric functional on \(\ell_p^n\) with \(1 < p < \infty\) is either internal
-> or of the form 
-$$ h(x) = - \sum_{i\in [n]} \mu_i x_i\,,$$
-> where \((\mu_i)\in \mathbb{R}^n\) with \(||\mu||_{q} = 1\) and \(q :=p(p-1)^{-1}\).

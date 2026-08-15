@@ -42,9 +42,10 @@ tags:
 
 featured: true
 
-#hugoblox:
-#  ids:
-#    arxiv: 1903.02502
+hugoblox:
+  ids:
+    doi: "10.1007/s43034-019-00024-1"
+    arxiv: "1903.02502"
 
 links:
 #- type: code
@@ -59,12 +60,12 @@ links:
 #  url: "#"
 #- type: video
 #  url: https://youtube.com
-- type: custom
-  label: doi
-  url: https://link.springer.com/article/10.1007/s43034-019-00024-1
-- type: custom
-  label: arxiv
-  url: https://arxiv.org/pdf/1903.02502  
+#- type: custom
+#  label: doi
+#  url: https://link.springer.com/article/10.1007/s43034-019-00024-1
+#- type: custom
+#  label: arxiv
+#  url: https://arxiv.org/pdf/1903.02502  
 #- type: preprint
 #  label: arxiv
 #  provider: arxiv
@@ -82,7 +83,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/projects/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 #- internal-project
 
 # Slides (optional).
@@ -90,7 +91,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: ""
+#slides: ""
 
 params:
   math: true

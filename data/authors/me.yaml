@@ -16,7 +16,7 @@ status:
 role: Research Scientist
 bio: 
   I'm a Researcher in Mathematics. I've carried out research at [Aalto University](https://www.aalto.fi/en),
-  [Inria National Institute for Research in Digital Science and Technology](https://www.inria.fr/en) and [VTT Technical Research Centre of Finland](https://www.vttresearch.com/en). 
+  [Inria Saclay](https://www.inria.fr/en), and [VTT](https://www.vttresearch.com/en). 
   I've made contributions to metric geometry, functional analysis and optimization. 
   I'm passionate about quantum computing, risk analysis and optimization algorithms.
 
@@ -49,7 +49,7 @@ education:
   #  start: 2015-09-01
     end: 2019-11-29
     summary: |
-      Thesis on explicit descriptions of all metric functionals on some classical Banach spaces. Published 3 papers in Colloquim Mathematicum, Canadian Mathematical Bulletin and Annals of Functional Analysis.
+      Thesis on explicit descriptions of all metric functionals on some classical Banach spaces. Published 3 papers in Colloquium Mathematicum, Canadian Mathematical Bulletin and Annals of Functional Analysis.
     button:
       text: Download dissertation
       url: https://aaltodoc.aalto.fi/bitstreams/25d727c2-7b73-4293-aeb1-48399011739f/download

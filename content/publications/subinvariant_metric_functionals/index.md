@@ -1,9 +1,10 @@
 ---
-title: The Horofunction Boundary of Finite Dimensional \(\ell_p\) Spaces 
+title: Subinvariant Metric Functionals for Nonexpansive Mappings 
 authors:
 - me
+- Olavi Nevanlinna
 
-date: "2018-10-19T00:00:00Z"
+date: "2025-06-26T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -15,38 +16,39 @@ publication_types: ["article-journal"]
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
-  name: "Colloquium Mathematicum"
-  volume: 155
-  issue: 1
-  pages: 51--65
+  name: "Numerical Functional Analysis and Optimization"
+  volume: 46
+  issue: 8-9
+  pages: 725--742
 
 peer_reviewed: true
 open_access: true
 #license: CC-BY-4.0
 
-abstract: We give a complete description of the horofunction boundary of finite dimensional \(\ell_p\) spaces for \(1\leq p \leq \infty\). We also study the variation norm on \(\mathbb{R}^n\), and the corresponding horofunction boundary. As a consequence, we describe the horofunctions for Hilbert's projective metric on the interior of the standard cone \(\mathbb{R}_{+}^n\) of \(\mathbb{R}^n\).
+abstract: We investigate the existence of subinvariant metric functionals for commuting families of nonexpansive mappings in noncompact subsets of Banach spaces. Our findings underscore the practicality of metric functionals when searching for fixed points of nonexpansive mappings. To demonstrate this, we additionally investigate subsets of Banach spaces that have only nontrivial metric functionals. We particularly show that in certain cases every metric functional has a unique minimizer; thus, subinvariance implies the existence of a fixed point.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Metric Functionals
-- Horofunctions
-- Horofunction Boundary
-- Normed Spaces
-- Hilbert's Projective Metric
+- Subinvariance
+- Nonexpansive Mappings
+- Banach Spaces
+- Minimizers
+- Fixed Points
 
 featured: true
 
 hugoblox:
   ids:
-    doi: 10.4064/cm7320-3-2018
-    arxiv: 1709.03462
+#    doi: "https://www.tandfonline.com/eprint/S7JKNW7NQYNZI7FHMXYX/full?target=10.1080/01630563.2025.2528908#d1e195"
+    arxiv: "2407.04234"
 
 links:
-#  - type: custom
-#    label: DOI
-#    url: https://doi.org/10.4064/cm7320-3-2018
+  - type: custom
+    label: DOI
+    url: "https://www.tandfonline.com/eprint/S7JKNW7NQYNZI7FHMXYX/full?target=10.1080/01630563.2025.2528908#abstract"
 #  - type: custom
 #    label: arxiv
 #    url: https://arxiv.org/pdf/1709.03462  
@@ -96,14 +98,3 @@ params:
 Main results
 ------------
 
-> [!success] Metric functionals on \(\ell_1^n\)
-> Every metric functional on \(\ell_1^n\) is either internal or of the form
-$$ h(x) = \sum_{i\in I}\epsilon_i x_i + \sum_{i\not\in I}(|x_i - \mu_i| - |\mu_i|),$$
-> where \(\empty \neq I \subseteq [n]\), \((\epsilon_i) \in \{-1, 1\}^I\), and 
-\((\mu_i) \in \mathbb{R}^{[n]\setminus I}\).
-
-> [!success] Metric functionals on \(\ell_p^n\) with \(1 < p < \infty\)
-> Every metric functional on \(\ell_p^n\) with \(1 < p < \infty\) is either internal
-> or of the form 
-$$ h(x) = - \sum_{i\in [n]} \mu_i x_i\,,$$
-> where \((\mu_i)\in \mathbb{R}^n\) with \(||\mu||_{q} = 1\) and \(q :=p(p-1)^{-1}\).
