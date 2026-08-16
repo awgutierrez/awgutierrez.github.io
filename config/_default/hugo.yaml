@@ -77,7 +77,7 @@ markup:
 params:
   math: true
 security:
-#  _merge: deep
+  _merge: deep
   allowContent:
   - '! ^text/html$'
   enableInlineShortcodes: false
