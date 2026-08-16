@@ -53,6 +53,7 @@ sections:
         folders:
           - publications
         featured_only: false
+      count: 20  
     design:
       view: article-grid
       columns: 2
