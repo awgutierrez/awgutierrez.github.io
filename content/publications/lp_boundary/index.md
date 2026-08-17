@@ -96,14 +96,15 @@ params:
 Main results
 ------------
 
-> [!success] Metric functionals on \(\ell_1^n\)
-> Every metric functional on \(\ell_1^n\) is either internal or of the form
-$$ h(x) = \sum_{i\in I}\epsilon_i x_i + \sum_{i\not\in I}(|x_i - \mu_i| - |\mu_i|),$$
-> where \(\empty \neq I \subseteq [n]\), \((\epsilon_i) \in \{-1, 1\}^I\), and 
-\((\mu_i) \in \mathbb{R}^{[n]\setminus I}\).
+> [!success] Horofunctions on \(\ell_1^n\)
+$$ h(x) = \sum_{i\in I}\sigma_i x_i + \sum_{i\not\in I}(|x_i - \rho_i| - |\rho_i|)$$
+> where  
+>   + \(I\,\) nonempty subset of \([n]:=\{1,...,n\}\),      
+>   + \(\sigma_i \in \{-1, 1\}\,\) for all \(i\in I\),    
+>   + \(\rho_j \in \mathbb{R}\,\) for all \(j\in [n]\setminus I\).
 
-> [!success] Metric functionals on \(\ell_p^n\) with \(1 < p < \infty\)
-> Every metric functional on \(\ell_p^n\) with \(1 < p < \infty\) is either internal
-> or of the form 
-$$ h(x) = - \sum_{i\in [n]} \mu_i x_i\,,$$
-> where \((\mu_i)\in \mathbb{R}^n\) with \(||\mu||_{q} = 1\) and \(q :=p(p-1)^{-1}\).
+> [!success] Horofunctions on \(\ell_p^n\) with \(1 < p < \infty\)
+$$ h(x) = - \sum_{i\in [n]} \mu_i x_i$$
+> where 
+>   + \(\mu_i \in \mathbb{R}\,\) for all \(i \in [n]\)
+>   + \(||\mu||_{q} = 1\) with \(q :=p(p-1)^{-1}\).
