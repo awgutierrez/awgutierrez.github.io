@@ -107,6 +107,5 @@ params:
   math: true
 ---
 
-Main results
-------------
+
 

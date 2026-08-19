@@ -94,6 +94,4 @@ params:
 
 ---
 
-Main results
-------------
 

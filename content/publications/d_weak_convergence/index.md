@@ -96,3 +96,19 @@ params:
 Main results
 ------------
 
+> [!success] \(d\)-weak convergence in normed linear spaces
+> Let \((a_n)\) be a bounded sequence in a normed linear space \(X\)
+> and \(a\in X\). Then,
+> \[ \lim_{n\to\infty} f(a_n) = f(a) \quad \forall\; f\in X^*\]
+> if and only if
+> \[ \liminf_{n\to\infty} h(a_n) \geq h(a) \quad \forall\; h\in X^\diamondsuit\] 
+
+> [!IMPORTANT] 
+> Given a metric space \((X,d)\), pick a point \(o\in X\) 
+> and denote by \(X^\diamondsuit\) the closure of the set 
+> \[ \{x \mapsto d(x,w)-d(o,w) \mid w\in X\} \]
+> in the topology of pointwise convergence.
+>
+> Every element of \(X^\diamondsuit\) is called a metric functional.
+> Note that every metric functional is a \(1\)-Lipschitz map \(X\to\mathbb{R}\)
+> that vanishes at the point \(o\).
