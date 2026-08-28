@@ -97,14 +97,14 @@ Main results
 ------------
 
 > [!success] Horofunctions on \(\ell_1^n\)
-$$ h(x) = \sum_{i\in I}\sigma_i x_i + \sum_{i\not\in I}(|x_i - \rho_i| - |\rho_i|)$$
+> \[ h(x) = \sum_{i\in I}\sigma_i x_i + \sum_{i\in [n]\setminus I}(|x_i - \rho_i| - |\rho_i|) \]
 > where  
 >   + \(I\,\) nonempty subset of \([n]:=\{1,...,n\}\),      
 >   + \(\sigma_i \in \{-1, 1\}\,\) for all \(i\in I\),    
->   + \(\rho_j \in \mathbb{R}\,\) for all \(j\in [n]\setminus I\).
+>   + \(\rho_i \in \mathbb{R}\,\) for all \(i\in [n]\setminus I\).
 
 > [!success] Horofunctions on \(\ell_p^n\) with \(1 < p < \infty\)
-$$ h(x) = - \sum_{i\in [n]} \mu_i x_i$$
+> \[ h(x) = - \sum_{i\in [n]} \mu_i x_i \]
 > where 
 >   + \(\mu_i \in \mathbb{R}\,\) for all \(i \in [n]\)
 >   + \(||\mu||_{q} = 1\) with \(q :=p(p-1)^{-1}\).
