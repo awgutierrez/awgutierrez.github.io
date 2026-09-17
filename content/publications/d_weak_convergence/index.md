@@ -134,7 +134,7 @@ is strictly convex, then \(d\)-weakly convergent sequences are bounded.
 
 > [!warning] There is an error in Theorem 1.4 in the printed version.
 > The space \(C[0,1]\) does not have the claimed property. 
-> [Check this out](../weak_topology/index.md).
+> [Check this out](/content/publications/weak_topology/weak_topology.pdf).
 
 
 
