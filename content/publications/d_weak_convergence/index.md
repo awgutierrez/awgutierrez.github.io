@@ -93,29 +93,48 @@ params:
 
 ---
 
-Main results
-------------
+> [!info] Metric Functionals
 
-> [!success] Behavior in Linear Worlds seen with Metric Eyes
-> Let \((a_n)\) be a bounded sequence in a normed linear space \(X\)
-> and \(a\in X\). Then,
-> \[ \lim_{n\to\infty} f(a_n) = f(a) \quad \forall\; f\in X^*\]
-> if and only if
-> \[ \liminf_{n\to\infty}\, \mathbf{h}(a_n) \geq \mathbf{h}(a) \quad \forall\; \mathbf{h}\in X^\diamondsuit\] 
-
-> [!important] Metric Functionals
-> Given a metric space \((X,d)\), pick a point \(o\in X\) 
-> and denote by \(X^\diamondsuit\) the closure of the set 
-> \[ \{x \mapsto d(x,w)-d(o,w) \mid w\in X\} \]
-> in the topology of pointwise convergence.
->
-> We call each element of \(X^\diamondsuit\) a _metric functional_.
-> Note that every metric functional is a \(1\)-Lipschitz map \(X\to\mathbb{R}\)
-> that vanishes at the point \(o\).
+Given a metric space \((X,d)\), pick a point \(o\in X\) 
+and define the set 
+ \[ X^\vee := \{x \mapsto d(x,w)-d(o,w) \mid w\in X\}. \]
+Denote by \(X^\diamondsuit\) the closure of \(X^\vee\) 
+in the topology of pointwise convergence. We call each element 
+in \(X^\diamondsuit\) a _metric functional_.
+Note that every metric functional is a \(1\)-Lipschitz map \(X\to\mathbb{R}\)
+that vanishes at the point \(o\).
 
 > [!info] Weak Convergence in Metric Structures
-> Let \((X,d)\) be a metric space and \(X^\diamondsuit\) the space of all
-> metric functionals on \(X\). We say that a sequence \((a_n)\) in \(X\)
-> converges \(d\textit{-weakly\,}\) to \(a\in X\) if for every \(\mathbf{h}\in X^\diamondsuit\)
-> we have
-> \[ \liminf_{n\to\infty}\, \mathbf{h}(a_n) \geq \mathbf{h}(a).\] 
+
+***Definition***
+Let \((X,d)\) be a metric space and \(X^\diamondsuit\) the space of all
+metric functionals on \(X\). We say that a sequence \((a_n)\) in \(X\)
+converges \(d\)-weakly to \(a\in X\) if for every \(\mathbf{h}\in X^\diamondsuit\)
+we have
+\[ \liminf_{n\to\infty}\, \mathbf{h}(a_n) \geq \mathbf{h}(a).\] 
+
+> [!success] Behavior in Linear Worlds seen with Metric Eyes
+
+***Theorem***
+A bounded sequence in a normed linear space converges \(d\)-weakly
+if and only if it converges in the classical weak sense.
+
+> [!important] Can unbounded sequences converge \(d\)-weakly?
+
+Yes. For example, if \(X\) is the real line equipped with
+the metric 
+\[ d(x,y)=\sqrt{|x-y|},\] 
+we have \(X^\diamondsuit = X^\vee\cup\{0\}\)
+and the unbounded sequence \(a_n=n\) converges \(d\)-weakly to every
+point in \(X\).
+
+***Theorem***
+If \(X\) is the space \(\ell_1\) or is a normed linear space whose dual space
+is strictly convex, then \(d\)-weakly convergent sequences are bounded.
+
+> [!warning] There is an error in Theorem 1.4 in the printed version.
+> The space \(C[0,1]\) does not have the claimed property. 
+> [Check this out](../publications/weak_topology/).
+
+
+

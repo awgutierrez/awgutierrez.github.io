@@ -46,6 +46,7 @@ ignoreFiles: [".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$","/con
 disableAliases: true
 outputs:
   home: [HTML, RSS, headers, redirects, backlinks]
+  page: [HTML, RSS]
   section: [HTML, RSS]
 imaging:
   resampleFilter: Lanczos

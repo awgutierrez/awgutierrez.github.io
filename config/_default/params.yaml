@@ -141,13 +141,13 @@ hugoblox:
         latitude: null
         longitude: null
       phone: ""
-    # AI/LLM crawler guidance (llms.txt)
-#    ai:
-#      allow:
-#        - /
-#      disallow: []
-#      note: "Guidance for AI crawlers - customize to match your public content."
-#      contact: ""
+     #AI/LLM crawler guidance (llms.txt)
+    ai:
+      allow:
+        - /
+      disallow: []
+      note: "Guidance for AI crawlers - customize to match your public content."
+      contact: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
