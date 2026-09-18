@@ -32,10 +32,10 @@ tags:
 
 featured: true
 
-#hugoblox:
-#  ids:
+hugoblox:
+  ids:
 #    doi: "10.4171/ZAA/1828"
-#    arxiv: "2506.04154"
+    arxiv: "2609.19368"
 
 links:
 #  - type: custom

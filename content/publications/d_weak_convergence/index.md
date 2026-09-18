@@ -132,9 +132,10 @@ point in \(X\).
 If \(X\) is the space \(\ell_1\) or is a normed linear space whose dual space
 is strictly convex, then \(d\)-weakly convergent sequences are bounded.
 
-> [!warning] There is an error in Theorem 1.4 in the printed version.
-> The space \(C[0,1]\) does not have the claimed property. 
-> [Check this out](https://awgutierrez.github.io/publications/weak_topology/).
+> [!warning] 
+> There is an error in Theorem 1.4 in the printed version.
+> Theorem 1.4 is not true for the space \(C[0,1]\) as pointed 
+> out [here](https://awgutierrez.github.io/publications/weak_topology/).
 
 
 
