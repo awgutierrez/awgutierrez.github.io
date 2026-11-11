@@ -97,3 +97,28 @@ params:
   math: true
 ---
 
+## Main results
+
+We characterize all metric functionals on \(L^p\) spaces over non-atomic standard probability spaces, \(1\leq p<\infty\), using random probability measures.
+
+> [!SUCCESS] Metric functionals on \(L^1\)
+>
+> \[ h(f)=\mathbb E\left[\int_{\overline{\mathbb R}}\bigl(|f-r|-|r|\bigr)\,d\xi(r)\right], \]
+>
+> where \(\xi\) is a random probability measure on \(\overline{\mathbb R}=[-\infty,\infty]\), with the integrand extended by \(-f\) at \(+\infty\) and \(f\) at \(-\infty\).
+>
+> The internal functionals correspond to \(\xi=\delta_g\), with \(g\in L^1\).
+
+> [!SUCCESS] Metric functionals on \(L^p\) with \(1 < p <\infty\)
+>
+> \[ h(f)=\bigl(A_\xi(f)-A_\xi(0)+c^p\bigr)^{1/p}-c, \]
+>
+> where \(A_\xi(f)=\mathbb E\left[\int_{\mathbb R}|f-r|^p\,d\xi(r)\right]\), \(\xi\) is a random probability measure on \(\mathbb R\), and \(c^p\geq A_\xi(0)\,\), or
+>
+> \[ h(f)=-\mathbb E[fu] \]
+>
+> where \(u\in L^q\,\) with \(\,\|u\|_q\leq1\,\) and \(\,pq=p+q\).
+>
+> The internal functionals correspond to \(\xi=\delta_g\) and \(c=\|g\|_p\), with \(g\in L^p\).
+
+
