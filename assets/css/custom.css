@@ -1,0 +1,21 @@
+/* Keep mathematical formulas inside Hugo Blox alerts */
+.callout {
+  min-width: 0;
+  max-width: 100%;
+}
+
+.callout .callout-content,
+.callout .callout-body {
+  min-width: 0;
+  max-width: 100%;
+}
+
+/* Allow wide display equations to scroll horizontally */
+.callout .katex-display,
+.callout mjx-container[display="true"] {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+}
+
