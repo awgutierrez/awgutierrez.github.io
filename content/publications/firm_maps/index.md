@@ -94,4 +94,34 @@ params:
 
 ---
 
+## Main results
 
+We introduce **firm non-expansive mappings** in arbitrary weak metric spaces, extending the classical notion beyond Banach spaces and geodesic metric spaces.
+
+### 1. Equality of asymptotic quantities
+
+Our main theorem establishes that, for every firm non-expansive mapping \(T:X\to X\) on a weak metric space \((X,\delta)\), every \(x\in X\), and every integer \(k\geq 1\),
+
+\[\begin{aligned} \inf_{y\in X}\delta(y,Ty) &= \lim_{n\to\infty}\frac{\delta(x,T^n x)}{n} \\ &= \lim_{n\to\infty}\delta(T^n x,T^{n+1}x) \\ &= \frac{1}{k}\lim_{n\to\infty}\delta(T^n x,T^{n+k}x). \end{aligned}\]
+
+Thus, the **minimal displacement**, **linear rate of escape**, and **asymptotic step size** coincide. This generalizes the Reich–Shafrir theorem without requiring a linear or geodesic structure.
+
+### 2. Metric functionals and zero escape rate
+
+If \(T\) is a firm non-expansive mapping of a metric space with zero linear escape rate, then there exists a metric functional \(h\) such that
+
+\[h(Tx)\leq h(x)\qquad\text{for every }x\in X.\]
+
+Consequently, \(h\) is non-increasing along every orbit of \(T\).
+
+### 3. Monotone escape in finite-dimensional normed spaces
+
+If \(T\) is a firm non-expansive mapping of a finite-dimensional normed space with zero linear escape rate, then **either** \(T\) has bounded orbits **or** there exists a metric functional \(h\) such that
+
+\[h(T^n x)\longrightarrow -\infty\qquad\text{monotonically, for every }x.\]
+
+Moreover, \(h\) can be chosen as a limit point of the orbit \((T^n0)_{n\geq 0}\).
+
+### 4. A broader class of mappings
+
+We show that this notion includes classical firmly non-expansive mappings in Banach spaces and \(W\)-hyperbolic spaces, while also admitting mappings that are not firmly non-expansive in the classical sense. We additionally characterize firmness for non-expansive mappings on one-dimensional asymmetric normed spaces.

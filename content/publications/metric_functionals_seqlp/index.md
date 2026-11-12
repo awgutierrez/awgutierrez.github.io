@@ -111,20 +111,20 @@ params:
 
 We characterize all metric functionals on infinite-dimensional \(\ell_p\) spaces, \(1\leq p<\infty\).
 
-> [!SUCCESS] Metric functionals on \(\ell_1\)
->
-> \[ h(x)=\sum_{i\in I}\sigma_i x_i+\sum_{i\notin I}\bigl(|x_i-a_i|-|a_i|\bigr), \]
->
-> where \(I\subseteq\mathbb N\), \(\sigma_i\in\{-1,1\}\) for \(i\in I\), and \(a_i\in\mathbb R\) for \(i\notin I\).
->
-> The internal functionals correspond to \(I=\varnothing\) and \(a\in\ell_1\).
+### 1. Metric functionals on \(\ell_1\)
 
-> [!SUCCESS] Metric functionals on \(\ell_p\) with \(1 < p <\infty\)
->
-> \[ h(x)=\left(\|x-a\|_p^p+c^p-\|a\|_p^p\right)^{1/p}-c, \]
->
-> where \(a\in\ell_p\) and \(c\geq\|a\|_p\,\), or
-> \[ h(x)=-\langle u,x\rangle, \]
-> where \(u\in\ell_q\,\), with \(\,\|u\|_q\leq1\,\) and \(\,pq=p+q\).
->
-> The internal functionals correspond to \(c=\|a\|_p \) in the first family.
+\[ h(x)=\sum_{i\in I}\sigma_i x_i+\sum_{i\notin I}\bigl(|x_i-a_i|-|a_i|\bigr), \]
+
+where \(I\subseteq\mathbb N\), \(\sigma_i\in\{-1,1\}\) for \(i\in I\), and \(a_i\in\mathbb R\) for \(i\notin I\).
+
+The internal functionals correspond to \(I=\varnothing\) and \(a\in\ell_1\).
+
+### 2. Metric functionals on \(\ell_p\) with \(1 < p <\infty\)
+
+\[ h(x)=\left(\|x-a\|_p^p+c^p-\|a\|_p^p\right)^{1/p}-c, \]
+
+where \(a\in\ell_p\) and \(c\geq\|a\|_p\,\), or
+\[ h(x)=-\langle u,x\rangle, \]
+where \(u\in\ell_q\,\), with \(\,\|u\|_q\leq1\,\) and \(\,pq=p+q\).
+
+The internal functionals correspond to \(c=\|a\|_p \) in the first family.

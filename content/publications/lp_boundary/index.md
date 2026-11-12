@@ -97,30 +97,30 @@ params:
 
 We characterize all horofunctions on finite-dimensional \(\ell_p^n\) spaces, with \(1\leq p\leq\infty\), and for Hilbert's projective metric.
 
-> [!SUCCESS] Horofunctions on \(\ell_1^n\)
->
-> \[ h(x)=\sum_{i\in I}\sigma_i x_i+\sum_{i\notin I}\bigl(|x_i-a_i|-|a_i|\bigr), \]
->
-> where \(\varnothing\neq I\subseteq[n]\), \(\sigma_i\in\{-1,1\}\), and \(a_i\in\mathbb R\).
+### 1. Horofunctions on \(\ell_1^n\)
 
-> [!SUCCESS] Horofunctions on \(\ell_p^n\), \(1 < p <\infty\)
->
-> \[ h(x)=-\langle u,x\rangle,\qquad \|u\|_q=1,\qquad \frac1p+\frac1q=1. \]
+\[ h(x)=\sum_{i\in I}\sigma_i x_i+\sum_{i\notin I}\bigl(|x_i-a_i|-|a_i|\bigr), \]
 
-> [!SUCCESS] Horofunctions on \(\ell_\infty^n\)
->
-> \[ h(x)=\max\left\{\max_{i\in I}(x_i-a_i),\max_{j\in J}(-x_j-b_j)\right\}, \]
->
-> where \(I,J\subseteq[n]\) are disjoint, \(I\cup J\neq\varnothing\), and \(a_i,b_j\geq0\) satisfy
->
-> \[ \min\bigl(\min_{i\in I}a_i,\min_{j\in J}b_j\bigr)=0. \]
->
-> Here, \(\min\varnothing=\infty\) and \(\max\varnothing=-\infty\).
+where \(\varnothing\neq I\subseteq[n]\), \(\sigma_i\in\{-1,1\}\), and \(a_i\in\mathbb R\).
 
-> [!SUCCESS] Horofunctions for Hilbert's projective metric on \(\mathbb R_{>0}^n\)
->
-> \[ h(x)=\log\left(\max_i u_i x_i\right)+\log\left(\max_j\frac{v_j}{x_j}\right), \]
->
-> where \(u,v\in [0,\infty)^n \) satisfy
->
-> \[ \|u\|_\infty = \|v\|_\infty=1,\qquad u_i v_i=0\quad(\forall i). \]
+### 2. Horofunctions on \(\ell_p^n\), \(1 < p <\infty\)
+
+\[ h(x)=-\langle u,x\rangle,\qquad \|u\|_q=1,\qquad \frac1p+\frac1q=1. \]
+
+### 3. Horofunctions on \(\ell_\infty^n\)
+
+\[ h(x)=\max\left\{\max_{i\in I}(x_i-a_i),\max_{j\in J}(-x_j-b_j)\right\}, \]
+
+where \(I,J\subseteq[n]\) are disjoint, \(I\cup J\neq\varnothing\), and \(a_i,b_j\geq0\) satisfy
+
+\[ \min\bigl(\min_{i\in I}a_i,\min_{j\in J}b_j\bigr)=0. \]
+
+Here, \(\min\varnothing=\infty\) and \(\max\varnothing=-\infty\).
+
+### 4. Horofunctions for Hilbert's projective metric on \(\mathbb R_{>0}^n\)
+
+\[ h(x)=\log\left(\max_i u_i x_i\right)+\log\left(\max_j\frac{v_j}{x_j}\right), \]
+
+where \(u,v\in [0,\infty)^n \) satisfy
+
+\[ \|u\|_\infty = \|v\|_\infty=1,\qquad u_i v_i=0\quad(\forall i). \]

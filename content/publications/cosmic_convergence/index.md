@@ -117,40 +117,39 @@ params:
 
 We study the asymptotic behavior of nonexpansive maps using metric functionals, with applications to invariant subspaces and cosmic convergence.
 
-> [!SUCCESS] Invariant subspaces of linear contractions
->
-> Let \(H\) be a real Hilbert space and \(T:H\to H\) an affine nonexpansive map of the form \(Tx=Ux+v\), where \(U\) is linear and \(\|U\|\leq1\).
->
-> If \(T\) has no approximate fixed points, that is, \(0\notin\overline{\operatorname{Im}(I-T)}\), then there exists a nonzero continuous linear functional \(f\) such that
->
-> \[ f(Tx)\geq f(x)\qquad(x\in H). \]
->
-> Consequently, \(\ker f\) is a closed invariant hyperplane for \(U\).
+### 1. Invariant subspaces of linear contractions
 
-> [!SUCCESS] Nonexpansive maps on \(\ell_1\)
->
-> Every nonexpansive map \(T:\ell_1(\mathbb Z)\to\ell_1(\mathbb Z)\) admits a nontrivial metric functional \(h\) satisfying
->
-> \[ h(Tx)\leq h(x)\qquad(x\in\ell_1(\mathbb Z)). \]
->
-> Moreover, there exists a nonzero continuous linear functional \(f\) such that
->
-> \[ f(T^n0)\geq0\qquad(n\geq0). \]
->
-> Thus, the entire orbit of the origin lies in a closed half-space.
+Let \(H\) be a real Hilbert space and \(T:H\to H\) an affine nonexpansive map of the form \(Tx=Ux+v\), where \(U\) is linear and \(\|U\|\leq1\).
 
+If \(T\) has no approximate fixed points, that is, \(0\notin\overline{\operatorname{Im}(I-T)}\), then there exists a nonzero continuous linear functional \(f\) such that
 
-> [!SUCCESS] Convergence of internal metric functionals without cosmic convergence
->
-> Consider the fixed-point-free nonexpansive map on \(\ell_1(\mathbb N)\),
->
-> \[ T(x_1,x_2,\ldots)=(1,x_1,x_2,\ldots). \]
->
-> The internal metric functionals associated with the orbit \((T^n0)\) converge pointwise to
->
-> \[ h(x)=\sum_{i=1}^{\infty}\bigl(|x_i-1|-1\bigr), \]
->
-> while the normalized iterates \(T^n0/\|T^n0\|_1\) have no weak cluster points.
->
-> This illustrates how metric functionals capture asymptotic behavior that cosmic convergence does not detect.
+\[ f(Tx)\geq f(x)\qquad(x\in H). \]
+
+Consequently, \(\ker f\) is a closed invariant hyperplane for \(U\).
+
+### 2. Nonexpansive maps on \(\ell_1\)
+
+Every nonexpansive map \(T:\ell_1(\mathbb Z)\to\ell_1(\mathbb Z)\) admits a nontrivial metric functional \(h\) satisfying
+
+\[ h(Tx)\leq h(x)\qquad(x\in\ell_1(\mathbb Z)). \]
+
+Moreover, there exists a nonzero continuous linear functional \(f\) such that
+
+\[ f(T^n0)\geq0\qquad(n\geq0). \]
+
+Thus, the entire orbit of the origin lies in a closed half-space.
+
+### 3. Convergence of internal metric functionals without cosmic convergence
+
+Consider the fixed-point-free nonexpansive map on \(\ell_1(\mathbb N)\),
+
+\[ T(x_1,x_2,\ldots)=(1,x_1,x_2,\ldots). \]
+
+The internal metric functionals associated with the orbit \((T^n0)\) converge pointwise to
+
+\[ h(x)=\sum_{i=1}^{\infty}\bigl(|x_i-1|-1\bigr), \]
+
+while the normalized iterates \(T^n0/\|T^n0\|_1\) have no weak cluster points.
+
+This illustrates how metric functionals capture asymptotic behavior that cosmic convergence does not detect.
 
