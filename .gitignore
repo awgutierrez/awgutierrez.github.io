@@ -67,3 +67,20 @@ Desktop.ini
 
 *.log
 npm-debug.log*
+
+
+
+# Editor-specific local files
+*.code-workspace
+.vscode/*.log
+
+# Python caches (if using Python scripts)
+__pycache__/
+*.py[cod]
+.venv/
+
+# Local temporary files
+*.swp
+*.swo
+*~
+
