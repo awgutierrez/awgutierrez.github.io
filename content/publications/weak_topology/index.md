@@ -19,7 +19,7 @@ peer_reviewed: false
 open_access: true
 #license: CC-BY-4.0
 
-abstract: We use metric functionals to build a weak topology associated with $d$-weak convergence on metric spaces. We also show the existence of a sequence in the space \(C[0,1]\) that is unbounded in the sup-norm yet converges \(d\)-weakly. This points out an error in an earlier work.
+abstract: We use metric functionals to construct a topology on metric spaces that induces $d$-weak convergence. We show that this topology is invariant under surjective isometries and characterize its convergence in terms of weak metrics. We prove that the topology is $T_1$ on every metric space. For normed linear spaces, we further show that it is Hausdorff and coarser than the classical weak topology. Finally, we construct a sequence in $C[0,1]$ that is unbounded in the sup-norm yet converges $d$-weakly, thereby correcting an assertion in an earlier work.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
